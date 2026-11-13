@@ -1,0 +1,28 @@
+{
+  "browser": "headless Edge",
+  "messages": 78,
+  "user_prompts": 17,
+  "search": {
+    "shown": 2,
+    "open": 2
+  },
+  "expand_collapse": true,
+  "images": [
+    {
+      "src": "图片/用户原始参考图_1.png",
+      "width": 2048
+    },
+    {
+      "src": "图片/状态机全图预览.png",
+      "width": 3600
+    },
+    {
+      "src": "图片/UE白盒运行截图.png",
+      "width": 1600
+    }
+  ],
+  "local_navigation_links_valid": true,
+  "javascript_errors": [],
+  "pdf_generated": true,
+  "word_visual_reviewed": false
+}

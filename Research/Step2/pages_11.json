@@ -1,0 +1,7 @@
+[
+ {"id":"video_ai_author_thread_1","url":"https://api.bilibili.com/x/v2/reply/reply?type=1&oid=117554664179211&root=322873660752&ps=20&pn=1"},
+ {"id":"video_ai_author_thread_2","url":"https://api.bilibili.com/x/v2/reply/reply?type=1&oid=117554664179211&root=322873660752&ps=20&pn=2"},
+ {"id":"video_ai_author_thread_3","url":"https://api.bilibili.com/x/v2/reply/reply?type=1&oid=117554664179211&root=322873660752&ps=20&pn=3"},
+ {"id":"video_ai_author_thread_4","url":"https://api.bilibili.com/x/v2/reply/reply?type=1&oid=117554664179211&root=322873660752&ps=20&pn=4"},
+ {"id":"video_ai_author_thread_5","url":"https://api.bilibili.com/x/v2/reply/reply?type=1&oid=117554664179211&root=322873660752&ps=20&pn=5"}
+]

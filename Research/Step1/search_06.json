@@ -1,0 +1,9 @@
+[
+ {"id":"search_guard_quoted","query":"\"影之刃零\" \"敌人\" \"格挡\""},
+ {"id":"search_movement_quoted","query":"\"影之刃零\" \"对峙\""},
+ {"id":"search_red_defense_quoted","query":"\"影之刃零\" \"红衣\" \"闪避\""},
+ {"id":"search_enemy_defense_quoted","query":"\"Phantom Blade Zero\" \"enemies\" \"block\""},
+ {"id":"search_enemy_dodge_quoted","query":"\"Phantom Blade Zero\" \"boss\" \"dodge\" \"retreat\""},
+ {"id":"guide_combat_followup","url":"https://phantomblade.guide/combat/"},
+ {"id":"wiki_combat_followup","url":"https://wiki.biligame.com/yingzhiren/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"}
+]

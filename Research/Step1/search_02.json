@@ -1,0 +1,10 @@
+[
+ {"id":"search_master_moves","query":"\"七星剑阵\" \"招式\""},
+ {"id":"search_red_moves","query":"\"红衣女剑客\" \"招式\""},
+ {"id":"search_black","query":"\"影之刃零\" \"黑光\""},
+ {"id":"search_master_black","query":"\"大师兄\" \"黑光\""},
+ {"id":"search_red_suicide","query":"\"红衣女剑客\" \"殉情\""},
+ {"id":"search_master_meter","query":"\"七星剑阵\" \"杀气\""},
+ {"id":"search_master_analysis","query":"\"大师兄\" \"影之刃零\" \"拆招\""},
+ {"id":"search_red_analysis","query":"\"红衣女剑客\" \"解析\""}
+]

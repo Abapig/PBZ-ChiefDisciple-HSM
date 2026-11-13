@@ -1,0 +1,4 @@
+此处仅提取 Codex config.toml 中 unreal_project 服务段。
+未复制其他服务、账户或凭据配置。
+本机配置与现有桥接脚本是过程复盘依据。
+2026-11-13 尝试访问 https://developers.openai.com/codex/mcp/ 和 config-reference 页面均返回 HTTP 403，未据此页面作已核实断言。

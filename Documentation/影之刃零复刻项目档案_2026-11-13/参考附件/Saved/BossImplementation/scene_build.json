@@ -1,0 +1,9 @@
+{
+  "map": "/Game/BossLab/Maps/L_BossLab",
+  "director": "/Game/BossLab/Maps/L_BossLab.L_BossLab:PersistentLevel.BP_BossEncounter_Final_C_0",
+  "actors": 57,
+  "fighters": 8,
+  "player_character": null,
+  "placeholder_animations": "existing project mannequin content",
+  "sword_animations": null
+}

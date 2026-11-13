@@ -1,0 +1,61 @@
+{
+  "passed": 11,
+  "total": 11,
+  "checks": [
+    {
+      "test": "learning_frozen_during_fight",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "branch_evidence_written",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "root_evidence_once",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "failed_response_increases_weight",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "branch_learning_independent",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "learned_length_distribution_capped",
+      "pass": true,
+      "details": "[0.2485235780107079, 0.2485235780107079, 0.2544292659678763, 0.2485235780107079]"
+    },
+    {
+      "test": "reset_discards_pending_learning",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "surround_formation_all_seven_emit",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "three_formation_beats_seven_actor_hits",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "last_disciple_blue_master_wave",
+      "pass": true,
+      "details": "None"
+    },
+    {
+      "test": "named_animation_interfaces_loaded",
+      "pass": true,
+      "details": "None"
+    }
+  ]
+}

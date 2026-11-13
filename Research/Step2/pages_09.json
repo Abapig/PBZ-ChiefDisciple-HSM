@@ -1,0 +1,14 @@
+[
+    {
+        "id":  "tieba_mobile_thread",
+        "url":  "https://tieba.baidu.com/mo/q/m?kz=11166023302"
+    },
+    {
+        "id":  "video_ai_meta",
+        "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1rsxU66EYZ"
+    },
+    {
+        "id":  "detail_baidu_pressure_weights_0",
+        "url":  "https://www.baidu.com/link?url=r3BtpwWDlOJybLXUpeuO4jx067qbU34vH-el1FbKRPJSSCY1hOoLm7FDGyWWIYrInJ6BQQbQIkoRn3B_CjFiV_"
+    }
+]

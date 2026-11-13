@@ -1,0 +1,814 @@
+{
+  "version": "boss-policy-1.0",
+  "source": "reproduction_design",
+  "moves": [
+    {
+      "id": "M1-01-L",
+      "name": "左横劈",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 12.0,
+      "pressure": -0.25,
+      "reach": 300.0,
+      "ideal": 170.0,
+      "width": 180.0,
+      "cooldown": 1.2,
+      "windup": 0.55,
+      "recovery": 0.45,
+      "atoms": [
+        "L"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-R",
+      "name": "右横劈",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 12.0,
+      "pressure": -0.25,
+      "reach": 300.0,
+      "ideal": 170.0,
+      "width": 180.0,
+      "cooldown": 1.2,
+      "windup": 0.55,
+      "recovery": 0.45,
+      "atoms": [
+        "R"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-D",
+      "name": "下劈",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 10.0,
+      "pressure": -0.15,
+      "reach": 320.0,
+      "ideal": 190.0,
+      "width": 180.0,
+      "cooldown": 1.6,
+      "windup": 0.65,
+      "recovery": 0.55,
+      "atoms": [
+        "D"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-J",
+      "name": "跳劈",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 8.0,
+      "pressure": 0.15,
+      "reach": 600.0,
+      "ideal": 400.0,
+      "width": 250.0,
+      "cooldown": 3.0,
+      "windup": 0.8,
+      "recovery": 0.65,
+      "atoms": [
+        "J"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-T",
+      "name": "戳刺",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 10.0,
+      "pressure": 0.0,
+      "reach": 430.0,
+      "ideal": 280.0,
+      "width": 200.0,
+      "cooldown": 2.0,
+      "windup": 0.6,
+      "recovery": 0.5,
+      "atoms": [
+        "T"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-U",
+      "name": "上挑",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 8.0,
+      "pressure": 0.1,
+      "reach": 260.0,
+      "ideal": 140.0,
+      "width": 150.0,
+      "cooldown": 2.0,
+      "windup": 0.6,
+      "recovery": 0.5,
+      "atoms": [
+        "U"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-K",
+      "name": "鞭腿",
+      "phases": [
+        1
+      ],
+      "owner": "G",
+      "family": "basic",
+      "base": 8.0,
+      "pressure": 0.1,
+      "reach": 230.0,
+      "ideal": 110.0,
+      "width": 140.0,
+      "cooldown": 2.0,
+      "windup": 0.5,
+      "recovery": 0.5,
+      "atoms": [
+        "K"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-01-Q",
+      "name": "大师兄普通剑气",
+      "phases": [
+        1
+      ],
+      "owner": "Q",
+      "family": "wave",
+      "base": 10.0,
+      "pressure": 0.15,
+      "reach": 1600.0,
+      "ideal": 700.0,
+      "width": 650.0,
+      "cooldown": 4.0,
+      "windup": 0.7,
+      "recovery": 0.5,
+      "atoms": [
+        "Q"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M1-02",
+      "name": "跳板跃斩",
+      "phases": [
+        1
+      ],
+      "owner": "M",
+      "family": "formation",
+      "base": 10.0,
+      "pressure": 0.45,
+      "reach": 1100.0,
+      "ideal": 650.0,
+      "width": 500.0,
+      "cooldown": 9.0,
+      "windup": 0.85,
+      "recovery": 0.9,
+      "atoms": [
+        "B:J"
+      ],
+      "disciples": 2,
+      "danger": true
+    },
+    {
+      "id": "M1-03",
+      "name": "阶梯借势冲刺",
+      "phases": [
+        1
+      ],
+      "owner": "M",
+      "family": "formation",
+      "base": 10.0,
+      "pressure": 0.6,
+      "reach": 1500.0,
+      "ideal": 900.0,
+      "width": 600.0,
+      "cooldown": 10.0,
+      "windup": 0.85,
+      "recovery": 1.0,
+      "atoms": [
+        "B:T"
+      ],
+      "disciples": 2,
+      "danger": true
+    },
+    {
+      "id": "M1-04",
+      "name": "多向合围突刺",
+      "phases": [
+        1
+      ],
+      "owner": "M",
+      "family": "formation",
+      "base": 8.0,
+      "pressure": 0.8,
+      "reach": 1200.0,
+      "ideal": 600.0,
+      "width": 500.0,
+      "cooldown": 12.0,
+      "windup": 0.9,
+      "recovery": 1.0,
+      "atoms": [
+        "R:T"
+      ],
+      "disciples": 2,
+      "danger": true
+    },
+    {
+      "id": "M1-07",
+      "name": "七人轮攻",
+      "phases": [
+        1
+      ],
+      "owner": "M",
+      "family": "formation",
+      "base": 8.0,
+      "pressure": 0.7,
+      "reach": 1000.0,
+      "ideal": 500.0,
+      "width": 500.0,
+      "cooldown": 12.0,
+      "windup": 0.75,
+      "recovery": 1.0,
+      "atoms": [
+        "ROTATION"
+      ],
+      "disciples": 2,
+      "danger": true
+    },
+    {
+      "id": "M1-09",
+      "name": "无光三拍剑阵",
+      "phases": [
+        1
+      ],
+      "owner": "M",
+      "family": "formation",
+      "base": 10.0,
+      "pressure": 0.2,
+      "reach": 1300.0,
+      "ideal": 650.0,
+      "width": 600.0,
+      "cooldown": 10.0,
+      "windup": 0.8,
+      "recovery": 0.9,
+      "atoms": [
+        "J",
+        "J",
+        "Q"
+      ],
+      "disciples": 6,
+      "danger": false
+    },
+    {
+      "id": "M2-01-A",
+      "name": "四斩蓝刺",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "sword",
+      "base": 14.0,
+      "pressure": 0.4,
+      "reach": 600.0,
+      "ideal": 300.0,
+      "width": 300.0,
+      "cooldown": 3.0,
+      "windup": 0.65,
+      "recovery": 0.8,
+      "atoms": [
+        "L",
+        "R",
+        "U",
+        "D",
+        "B:T"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-01-B",
+      "name": "二斩蓝刺",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "sword",
+      "base": 18.0,
+      "pressure": -0.1,
+      "reach": 550.0,
+      "ideal": 280.0,
+      "width": 280.0,
+      "cooldown": 2.0,
+      "windup": 0.65,
+      "recovery": 0.75,
+      "atoms": [
+        "L",
+        "R",
+        "B:T"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-01-C",
+      "name": "可变前缀接二斩",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "sword",
+      "base": 9.0,
+      "pressure": 0.8,
+      "reach": 650.0,
+      "ideal": 350.0,
+      "width": 320.0,
+      "cooldown": 7.0,
+      "windup": 0.7,
+      "recovery": 0.95,
+      "atoms": [
+        "PREFIX",
+        "L",
+        "R",
+        "B:T"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-01-D",
+      "name": "二刺接蓝刺",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "sword",
+      "base": 12.0,
+      "pressure": 0.25,
+      "reach": 750.0,
+      "ideal": 400.0,
+      "width": 350.0,
+      "cooldown": 4.0,
+      "windup": 0.7,
+      "recovery": 0.8,
+      "atoms": [
+        "T",
+        "T",
+        "B:T"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-01-E",
+      "name": "普通无光剑招",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "sword",
+      "base": 18.0,
+      "pressure": -0.65,
+      "reach": 600.0,
+      "ideal": 300.0,
+      "width": 300.0,
+      "cooldown": 1.5,
+      "windup": 0.6,
+      "recovery": 0.6,
+      "atoms": [
+        "PLAIN"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M2-01-F",
+      "name": "独立蓝光突刺",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "sword",
+      "base": 10.0,
+      "pressure": 0.35,
+      "reach": 1100.0,
+      "ideal": 600.0,
+      "width": 500.0,
+      "cooldown": 5.0,
+      "windup": 0.85,
+      "recovery": 0.85,
+      "atoms": [
+        "B:T"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-03",
+      "name": "高空无光追踪丝线",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "thread",
+      "base": 10.0,
+      "pressure": 0.25,
+      "reach": 2000.0,
+      "ideal": 1200.0,
+      "width": 900.0,
+      "cooldown": 12.0,
+      "windup": 1.0,
+      "recovery": 1.0,
+      "atoms": [
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "M2-04",
+      "name": "拉远红光攻击",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "thread",
+      "base": 9.0,
+      "pressure": 0.7,
+      "reach": 2000.0,
+      "ideal": 1300.0,
+      "width": 800.0,
+      "cooldown": 10.0,
+      "windup": 1.0,
+      "recovery": 1.1,
+      "atoms": [
+        "R:Q"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-05-N",
+      "name": "近距红光扇形喷射",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "spray",
+      "base": 10.0,
+      "pressure": 0.6,
+      "reach": 450.0,
+      "ideal": 250.0,
+      "width": 250.0,
+      "cooldown": 8.0,
+      "windup": 0.85,
+      "recovery": 0.9,
+      "atoms": [
+        "R:SPRAY"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M2-05-F",
+      "name": "远距无光扇形喷射",
+      "phases": [
+        2,
+        3,
+        4
+      ],
+      "owner": "M",
+      "family": "spray",
+      "base": 12.0,
+      "pressure": 0.2,
+      "reach": 1800.0,
+      "ideal": 1000.0,
+      "width": 700.0,
+      "cooldown": 8.0,
+      "windup": 0.85,
+      "recovery": 0.85,
+      "atoms": [
+        "SPRAY"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M3-01",
+      "name": "双人蓝光齐攻",
+      "phases": [
+        3
+      ],
+      "owner": "D",
+      "family": "duet",
+      "base": 11.0,
+      "pressure": 0.7,
+      "reach": 1000.0,
+      "ideal": 500.0,
+      "width": 500.0,
+      "cooldown": 12.0,
+      "windup": 1.0,
+      "recovery": 1.1,
+      "atoms": [
+        "B:DUET"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M3-02",
+      "name": "双人错拍红光",
+      "phases": [
+        3
+      ],
+      "owner": "D",
+      "family": "duet",
+      "base": 8.0,
+      "pressure": 0.9,
+      "reach": 1800.0,
+      "ideal": 800.0,
+      "width": 700.0,
+      "cooldown": 14.0,
+      "windup": 1.0,
+      "recovery": 1.2,
+      "atoms": [
+        "R:M",
+        "R:R"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "M4-01",
+      "name": "丝线长剑六连斩",
+      "phases": [
+        4
+      ],
+      "owner": "M",
+      "family": "rage",
+      "base": 20.0,
+      "pressure": 0.7,
+      "reach": 1100.0,
+      "ideal": 650.0,
+      "width": 500.0,
+      "cooldown": 8.0,
+      "windup": 0.85,
+      "recovery": 1.2,
+      "atoms": [
+        "L",
+        "R",
+        "U",
+        "D",
+        "L",
+        "B:D"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "R-01",
+      "name": "红衣三连快剑",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "red_sword",
+      "base": 18.0,
+      "pressure": -0.25,
+      "reach": 350.0,
+      "ideal": 180.0,
+      "width": 200.0,
+      "cooldown": 2.0,
+      "windup": 0.55,
+      "recovery": 0.65,
+      "atoms": [
+        "L",
+        "R",
+        "D"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "R-02",
+      "name": "红衣剑腿组合",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "red_sword",
+      "base": 14.0,
+      "pressure": 0.0,
+      "reach": 280.0,
+      "ideal": 140.0,
+      "width": 180.0,
+      "cooldown": 3.0,
+      "windup": 0.55,
+      "recovery": 0.7,
+      "atoms": [
+        "L",
+        "K",
+        "R"
+      ],
+      "disciples": 0,
+      "danger": false
+    },
+    {
+      "id": "R-03",
+      "name": "二斩接红光后翻斩",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "red_special",
+      "base": 10.0,
+      "pressure": 0.45,
+      "reach": 400.0,
+      "ideal": 230.0,
+      "width": 230.0,
+      "cooldown": 7.0,
+      "windup": 0.65,
+      "recovery": 0.85,
+      "atoms": [
+        "L",
+        "R",
+        "R:BACK"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "R-04",
+      "name": "红光后翻投刃",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "red_special",
+      "base": 10.0,
+      "pressure": 0.4,
+      "reach": 1700.0,
+      "ideal": 950.0,
+      "width": 650.0,
+      "cooldown": 7.0,
+      "windup": 0.85,
+      "recovery": 0.85,
+      "atoms": [
+        "R:Q"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "R-05",
+      "name": "踏空二斩蓝光收尾",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "red_special",
+      "base": 12.0,
+      "pressure": 0.35,
+      "reach": 700.0,
+      "ideal": 400.0,
+      "width": 350.0,
+      "cooldown": 5.0,
+      "windup": 0.75,
+      "recovery": 0.8,
+      "atoms": [
+        "L",
+        "R",
+        "B:D"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "R-07",
+      "name": "黑光束缚突袭",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "black",
+      "base": 7.0,
+      "pressure": 0.9,
+      "reach": 1300.0,
+      "ideal": 700.0,
+      "width": 550.0,
+      "cooldown": 13.0,
+      "windup": 1.0,
+      "recovery": 1.1,
+      "atoms": [
+        "K:BIND"
+      ],
+      "disciples": 0,
+      "danger": true
+    },
+    {
+      "id": "R-08",
+      "name": "黑光极速挥剑",
+      "phases": [
+        3
+      ],
+      "owner": "R",
+      "family": "black",
+      "base": 6.0,
+      "pressure": 0.85,
+      "reach": 380.0,
+      "ideal": 230.0,
+      "width": 200.0,
+      "cooldown": 12.0,
+      "windup": 0.8,
+      "recovery": 1.0,
+      "atoms": [
+        "K:D"
+      ],
+      "disciples": 0,
+      "danger": true
+    }
+  ],
+  "aliases": {
+    "M1-06": "M1-04",
+    "M2-02": "M2-01-F",
+    "R-06": "R-04"
+  },
+  "disabled": [
+    "M1-05",
+    "M1-08",
+    "M2-06",
+    "R-09"
+  ],
+  "event_weights": {
+    "parry": -12,
+    "perfect_dodge": -8,
+    "dodge": -5,
+    "attack_hit": -1,
+    "block": 2,
+    "attack_miss": 3,
+    "hit": 30,
+    "break": 40,
+    "grab": 45
+  },
+  "response_score": {
+    "parry": 1.0,
+    "perfect_dodge": 1.0,
+    "dodge": 1.0,
+    "interrupt": 1.0,
+    "block": 0.65,
+    "hit": 0.0,
+    "break": 0.0,
+    "grab": 0.0
+  }
+}

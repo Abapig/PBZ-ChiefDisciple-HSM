@@ -1,0 +1,8 @@
+{
+  "id": "tieba_mobile_thread",
+  "url": "https://tieba.baidu.com/mo/q/m?kz=11166023302",
+  "query": null,
+  "retrieved_utc": "2026-11-11T11:38:09.932372+00:00",
+  "error": "HTTP Error 403: Forbidden",
+  "final_url": "https://tieba.baidu.com/mo/q/m?kz=11166023302"
+}

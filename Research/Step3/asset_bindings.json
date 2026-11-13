@@ -1,0 +1,3664 @@
+{
+  "actors": {
+    "MasterActor": null,
+    "DiscipleActors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "RedActor": null
+  },
+  "resources": [
+    {
+      "state": "B_ENTER_RED",
+      "name": "AN_Red_B_ENTER_RED",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "B_SUICIDE",
+      "name": "AN_Red_B_SUICIDE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "S_WAIT",
+      "name": "AN_ActorInstance_S_WAIT",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "M_FACE",
+      "name": "AN_ActorInstance_M_FACE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "M_STAND",
+      "name": "AN_ActorInstance_M_STAND",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "M_CHASE",
+      "name": "AN_ActorInstance_M_CHASE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "M_STRAFE",
+      "name": "AN_ActorInstance_M_STRAFE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "M_RETREAT",
+      "name": "AN_ActorInstance_M_RETREAT",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "M_PATH_FAIL",
+      "name": "AN_ActorInstance_M_PATH_FAIL",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "V_REACT",
+      "name": "AN_ActorInstance_V_REACT",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "V_GUARD",
+      "name": "AN_ActorInstance_V_GUARD",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "V_GUARD_END",
+      "name": "AN_ActorInstance_V_GUARD_END",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "V_DODGE",
+      "name": "AN_ActorInstance_V_DODGE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "V_STAGGER",
+      "name": "AN_ActorInstance_V_STAGGER",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "Q_BREAK_START",
+      "name": "AN_ActorInstance_Q_BREAK_START",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "Q_BREAK_STUN",
+      "name": "AN_ActorInstance_Q_BREAK_STUN",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "Q_HANG",
+      "name": "AN_Master_Q_HANG",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "Q_BROKEN_FREE",
+      "name": "AN_ActorInstance_Q_BROKEN_FREE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "ActorInstance",
+      "binding": null
+    },
+    {
+      "state": "Q_GROUND",
+      "name": "AN_Master_Q_GROUND",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "Q_REHANG",
+      "name": "AN_Master_Q_REHANG",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SPIN",
+      "name": "AN_Master_F_SPIN",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SPIN",
+      "name": "AN_FormationDisciple_F_SPIN",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_RISE",
+      "name": "AN_Master_F_RISE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_RISE",
+      "name": "AN_FormationDisciple_F_RISE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_LAND",
+      "name": "AN_Master_F_LAND",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_LAND",
+      "name": "AN_FormationDisciple_F_LAND",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_BREAK",
+      "name": "AN_Master_F_BREAK",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_BREAK",
+      "name": "AN_FormationDisciple_F_BREAK",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_RECOVER",
+      "name": "AN_Master_F_RECOVER",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_RECOVER",
+      "name": "AN_FormationDisciple_F_RECOVER",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE2",
+      "name": "AN_Master_F_SHAPE2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE2",
+      "name": "AN_FormationDisciple_F_SHAPE2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE3",
+      "name": "AN_Master_F_SHAPE3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE3",
+      "name": "AN_FormationDisciple_F_SHAPE3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE4",
+      "name": "AN_Master_F_SHAPE4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE4",
+      "name": "AN_FormationDisciple_F_SHAPE4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE5",
+      "name": "AN_Master_F_SHAPE5",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE5",
+      "name": "AN_FormationDisciple_F_SHAPE5",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE6",
+      "name": "AN_Master_F_SHAPE6",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "F_SHAPE6",
+      "name": "AN_FormationDisciple_F_SHAPE6",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "FormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "D_DETACHED",
+      "name": "AN_Disciple_D_DETACHED",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "D_SECOND_BREAK",
+      "name": "AN_Disciple_D_SECOND_BREAK",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "D_REJOIN",
+      "name": "AN_Disciple_D_REJOIN",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "H_SUMMON_W",
+      "name": "AN_Master_H_SUMMON_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "H_SUMMON_R",
+      "name": "AN_Master_H_SUMMON_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "H_DRAIN_W",
+      "name": "AN_Master_H_DRAIN_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "H_DRAIN_R",
+      "name": "AN_Master_H_DRAIN_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_W",
+      "name": "AN_Master_M1_01_L_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_W",
+      "name": "AN_Disciple_M1_01_L_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_R",
+      "name": "AN_Master_M1_01_L_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_R",
+      "name": "AN_Disciple_M1_01_L_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "AN_Master_M1_01_L_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "AN_Disciple_M1_01_L_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "HIT_Master_M1_01_L_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "HIT_Disciple_M1_01_L_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "FX_Master_M1_01_L_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "FX_Disciple_M1_01_L_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "SFX_Master_M1_01_L_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_L_B1",
+      "name": "SFX_Disciple_M1_01_L_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_W",
+      "name": "AN_Master_M1_01_R_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_W",
+      "name": "AN_Disciple_M1_01_R_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_R",
+      "name": "AN_Master_M1_01_R_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_R",
+      "name": "AN_Disciple_M1_01_R_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "AN_Master_M1_01_R_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "AN_Disciple_M1_01_R_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "HIT_Master_M1_01_R_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "HIT_Disciple_M1_01_R_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "FX_Master_M1_01_R_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "FX_Disciple_M1_01_R_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "SFX_Master_M1_01_R_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_R_B1",
+      "name": "SFX_Disciple_M1_01_R_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_W",
+      "name": "AN_Master_M1_01_D_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_W",
+      "name": "AN_Disciple_M1_01_D_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_R",
+      "name": "AN_Master_M1_01_D_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_R",
+      "name": "AN_Disciple_M1_01_D_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "AN_Master_M1_01_D_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "AN_Disciple_M1_01_D_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "HIT_Master_M1_01_D_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "HIT_Disciple_M1_01_D_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "FX_Master_M1_01_D_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "FX_Disciple_M1_01_D_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "SFX_Master_M1_01_D_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_D_B1",
+      "name": "SFX_Disciple_M1_01_D_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_W",
+      "name": "AN_Master_M1_01_J_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_W",
+      "name": "AN_Disciple_M1_01_J_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_R",
+      "name": "AN_Master_M1_01_J_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_R",
+      "name": "AN_Disciple_M1_01_J_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "AN_Master_M1_01_J_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "AN_Disciple_M1_01_J_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "HIT_Master_M1_01_J_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "HIT_Disciple_M1_01_J_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "FX_Master_M1_01_J_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "FX_Disciple_M1_01_J_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "SFX_Master_M1_01_J_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_J_B1",
+      "name": "SFX_Disciple_M1_01_J_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_W",
+      "name": "AN_Master_M1_01_T_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_W",
+      "name": "AN_Disciple_M1_01_T_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_R",
+      "name": "AN_Master_M1_01_T_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_R",
+      "name": "AN_Disciple_M1_01_T_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "AN_Master_M1_01_T_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "AN_Disciple_M1_01_T_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "HIT_Master_M1_01_T_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "HIT_Disciple_M1_01_T_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "FX_Master_M1_01_T_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "FX_Disciple_M1_01_T_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "SFX_Master_M1_01_T_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_T_B1",
+      "name": "SFX_Disciple_M1_01_T_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_W",
+      "name": "AN_Master_M1_01_U_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_W",
+      "name": "AN_Disciple_M1_01_U_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_R",
+      "name": "AN_Master_M1_01_U_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_R",
+      "name": "AN_Disciple_M1_01_U_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "AN_Master_M1_01_U_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "AN_Disciple_M1_01_U_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "HIT_Master_M1_01_U_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "HIT_Disciple_M1_01_U_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "FX_Master_M1_01_U_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "FX_Disciple_M1_01_U_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "SFX_Master_M1_01_U_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_U_B1",
+      "name": "SFX_Disciple_M1_01_U_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_W",
+      "name": "AN_Master_M1_01_K_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_W",
+      "name": "AN_Disciple_M1_01_K_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_R",
+      "name": "AN_Master_M1_01_K_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_R",
+      "name": "AN_Disciple_M1_01_K_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "AN_Master_M1_01_K_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "AN_Disciple_M1_01_K_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "HIT_Master_M1_01_K_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "HIT_Disciple_M1_01_K_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "FX_Master_M1_01_K_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "FX_Disciple_M1_01_K_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "SFX_Master_M1_01_K_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_K_B1",
+      "name": "SFX_Disciple_M1_01_K_B1",
+      "type": "SoundBase",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "M1_01_Q_W",
+      "name": "AN_Master_M1_01_Q_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_Q_R",
+      "name": "AN_Master_M1_01_Q_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_Q_B1",
+      "name": "AN_Master_M1_01_Q_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_Q_B1",
+      "name": "HIT_Master_M1_01_Q_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_Q_B1",
+      "name": "FX_Master_M1_01_Q_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_01_Q_B1",
+      "name": "SFX_Master_M1_01_Q_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_02_W",
+      "name": "AN_Master_M1_02_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_02_R",
+      "name": "AN_Master_M1_02_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_02_B1",
+      "name": "AN_Master_M1_02_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_02_B1",
+      "name": "HIT_Master_M1_02_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_02_B1",
+      "name": "FX_Master_M1_02_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_02_B1",
+      "name": "SFX_Master_M1_02_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_04_W",
+      "name": "AN_Master_M1_04_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_04_R",
+      "name": "AN_Master_M1_04_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_04_B1",
+      "name": "AN_Master_M1_04_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_04_B1",
+      "name": "HIT_Master_M1_04_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_04_B1",
+      "name": "FX_Master_M1_04_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_04_B1",
+      "name": "SFX_Master_M1_04_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_W",
+      "name": "AN_Master_M1_03_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_R",
+      "name": "AN_Master_M1_03_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_STEP",
+      "name": "AN_Master_M1_03_STEP",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_BLUE",
+      "name": "AN_Master_M1_03_BLUE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_BLUE",
+      "name": "HIT_Master_M1_03_BLUE",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_BLUE",
+      "name": "FX_Master_M1_03_BLUE",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_03_BLUE",
+      "name": "SFX_Master_M1_03_BLUE",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_W",
+      "name": "AN_Master_M1_07_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_R",
+      "name": "AN_Master_M1_07_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_MASTER_Q",
+      "name": "AN_Master_M1_07_MASTER_Q",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_MASTER_Q",
+      "name": "HIT_Master_M1_07_MASTER_Q",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_MASTER_Q",
+      "name": "FX_Master_M1_07_MASTER_Q",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_MASTER_Q",
+      "name": "SFX_Master_M1_07_MASTER_Q",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_GAP",
+      "name": "AN_Master_M1_07_GAP",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_07_DISCIPLE",
+      "name": "AN_CurrentFormationDisciple_M1_07_DISCIPLE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "CurrentFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_DISCIPLE",
+      "name": "HIT_CurrentFormationDisciple_M1_07_DISCIPLE",
+      "type": "HitVolumeDefinition",
+      "target_role": "CurrentFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_DISCIPLE",
+      "name": "FX_CurrentFormationDisciple_M1_07_DISCIPLE",
+      "type": "NiagaraSystem",
+      "target_role": "CurrentFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_DISCIPLE",
+      "name": "SFX_CurrentFormationDisciple_M1_07_DISCIPLE",
+      "type": "SoundBase",
+      "target_role": "CurrentFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_LAST",
+      "name": "AN_LastFormationDisciple_M1_07_LAST",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "LastFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_LAST",
+      "name": "HIT_LastFormationDisciple_M1_07_LAST",
+      "type": "HitVolumeDefinition",
+      "target_role": "LastFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_LAST",
+      "name": "FX_LastFormationDisciple_M1_07_LAST",
+      "type": "NiagaraSystem",
+      "target_role": "LastFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_07_LAST",
+      "name": "SFX_LastFormationDisciple_M1_07_LAST",
+      "type": "SoundBase",
+      "target_role": "LastFormationDisciple",
+      "binding": null
+    },
+    {
+      "state": "M1_09_W",
+      "name": "AN_Master_M1_09_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_R",
+      "name": "AN_Master_M1_09_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "AN_Pair1DiscipleA_M1_09_PAIR1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Pair1DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "AN_Pair1DiscipleB_M1_09_PAIR1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Pair1DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "HIT_Pair1DiscipleA_M1_09_PAIR1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Pair1DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "HIT_Pair1DiscipleB_M1_09_PAIR1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Pair1DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "FX_Pair1DiscipleA_M1_09_PAIR1",
+      "type": "NiagaraSystem",
+      "target_role": "Pair1DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "FX_Pair1DiscipleB_M1_09_PAIR1",
+      "type": "NiagaraSystem",
+      "target_role": "Pair1DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "SFX_Pair1DiscipleA_M1_09_PAIR1",
+      "type": "SoundBase",
+      "target_role": "Pair1DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR1",
+      "name": "SFX_Pair1DiscipleB_M1_09_PAIR1",
+      "type": "SoundBase",
+      "target_role": "Pair1DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_GAP1",
+      "name": "AN_Master_M1_09_GAP1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "AN_Pair2DiscipleA_M1_09_PAIR2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Pair2DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "AN_Pair2DiscipleB_M1_09_PAIR2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Pair2DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "HIT_Pair2DiscipleA_M1_09_PAIR2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Pair2DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "HIT_Pair2DiscipleB_M1_09_PAIR2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Pair2DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "FX_Pair2DiscipleA_M1_09_PAIR2",
+      "type": "NiagaraSystem",
+      "target_role": "Pair2DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "FX_Pair2DiscipleB_M1_09_PAIR2",
+      "type": "NiagaraSystem",
+      "target_role": "Pair2DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "SFX_Pair2DiscipleA_M1_09_PAIR2",
+      "type": "SoundBase",
+      "target_role": "Pair2DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR2",
+      "name": "SFX_Pair2DiscipleB_M1_09_PAIR2",
+      "type": "SoundBase",
+      "target_role": "Pair2DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_GAP2",
+      "name": "AN_Master_M1_09_GAP2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "AN_Master_M1_09_PAIR3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "AN_Pair3DiscipleA_M1_09_PAIR3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Pair3DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "AN_Pair3DiscipleB_M1_09_PAIR3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Pair3DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "HIT_Master_M1_09_PAIR3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "HIT_Pair3DiscipleA_M1_09_PAIR3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Pair3DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "HIT_Pair3DiscipleB_M1_09_PAIR3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Pair3DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "FX_Master_M1_09_PAIR3",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "FX_Pair3DiscipleA_M1_09_PAIR3",
+      "type": "NiagaraSystem",
+      "target_role": "Pair3DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "FX_Pair3DiscipleB_M1_09_PAIR3",
+      "type": "NiagaraSystem",
+      "target_role": "Pair3DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "SFX_Master_M1_09_PAIR3",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "SFX_Pair3DiscipleA_M1_09_PAIR3",
+      "type": "SoundBase",
+      "target_role": "Pair3DiscipleA",
+      "binding": null
+    },
+    {
+      "state": "M1_09_PAIR3",
+      "name": "SFX_Pair3DiscipleB_M1_09_PAIR3",
+      "type": "SoundBase",
+      "target_role": "Pair3DiscipleB",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_W",
+      "name": "AN_Master_M2_01_A_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_R",
+      "name": "AN_Master_M2_01_A_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B1",
+      "name": "AN_Master_M2_01_A_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B1",
+      "name": "HIT_Master_M2_01_A_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B1",
+      "name": "FX_Master_M2_01_A_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B1",
+      "name": "SFX_Master_M2_01_A_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_G1",
+      "name": "AN_Master_M2_01_A_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B2",
+      "name": "AN_Master_M2_01_A_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B2",
+      "name": "HIT_Master_M2_01_A_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B2",
+      "name": "FX_Master_M2_01_A_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B2",
+      "name": "SFX_Master_M2_01_A_B2",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_G2",
+      "name": "AN_Master_M2_01_A_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_OBS",
+      "name": "AN_Master_M2_01_A_OBS",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B3",
+      "name": "AN_Master_M2_01_A_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B3",
+      "name": "HIT_Master_M2_01_A_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B3",
+      "name": "FX_Master_M2_01_A_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B3",
+      "name": "SFX_Master_M2_01_A_B3",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_G3",
+      "name": "AN_Master_M2_01_A_G3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B4",
+      "name": "AN_Master_M2_01_A_B4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B4",
+      "name": "HIT_Master_M2_01_A_B4",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B4",
+      "name": "FX_Master_M2_01_A_B4",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B4",
+      "name": "SFX_Master_M2_01_A_B4",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_G4",
+      "name": "AN_Master_M2_01_A_G4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B5",
+      "name": "AN_Master_M2_01_A_B5",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B5",
+      "name": "HIT_Master_M2_01_A_B5",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B5",
+      "name": "FX_Master_M2_01_A_B5",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_A_B5",
+      "name": "SFX_Master_M2_01_A_B5",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_W",
+      "name": "AN_Master_M2_01_B_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_R",
+      "name": "AN_Master_M2_01_B_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B1",
+      "name": "AN_Master_M2_01_B_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B1",
+      "name": "HIT_Master_M2_01_B_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B1",
+      "name": "FX_Master_M2_01_B_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B1",
+      "name": "SFX_Master_M2_01_B_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_G1",
+      "name": "AN_Master_M2_01_B_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B2",
+      "name": "AN_Master_M2_01_B_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B2",
+      "name": "HIT_Master_M2_01_B_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B2",
+      "name": "FX_Master_M2_01_B_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B2",
+      "name": "SFX_Master_M2_01_B_B2",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_G2",
+      "name": "AN_Master_M2_01_B_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_OBS",
+      "name": "AN_Master_M2_01_B_OBS",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B3",
+      "name": "AN_Master_M2_01_B_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B3",
+      "name": "HIT_Master_M2_01_B_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B3",
+      "name": "FX_Master_M2_01_B_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_B_B3",
+      "name": "SFX_Master_M2_01_B_B3",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_W",
+      "name": "AN_Master_M2_01_D_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_R",
+      "name": "AN_Master_M2_01_D_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B1",
+      "name": "AN_Master_M2_01_D_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B1",
+      "name": "HIT_Master_M2_01_D_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B1",
+      "name": "FX_Master_M2_01_D_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B1",
+      "name": "SFX_Master_M2_01_D_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_G1",
+      "name": "AN_Master_M2_01_D_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B2",
+      "name": "AN_Master_M2_01_D_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B2",
+      "name": "HIT_Master_M2_01_D_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B2",
+      "name": "FX_Master_M2_01_D_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B2",
+      "name": "SFX_Master_M2_01_D_B2",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_G2",
+      "name": "AN_Master_M2_01_D_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_OBS",
+      "name": "AN_Master_M2_01_D_OBS",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B3",
+      "name": "AN_Master_M2_01_D_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B3",
+      "name": "HIT_Master_M2_01_D_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B3",
+      "name": "FX_Master_M2_01_D_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_D_B3",
+      "name": "SFX_Master_M2_01_D_B3",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_F_W",
+      "name": "AN_Master_M2_01_F_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_F_R",
+      "name": "AN_Master_M2_01_F_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_F_B1",
+      "name": "AN_Master_M2_01_F_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_F_B1",
+      "name": "HIT_Master_M2_01_F_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_F_B1",
+      "name": "FX_Master_M2_01_F_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_F_B1",
+      "name": "SFX_Master_M2_01_F_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_W",
+      "name": "AN_Master_M2_01_C_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_R",
+      "name": "AN_Master_M2_01_C_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_SETTLE",
+      "name": "AN_Master_M2_01_C_SETTLE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_L",
+      "name": "AN_Master_M2_01_C_P_L",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_L",
+      "name": "HIT_Master_M2_01_C_P_L",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_L",
+      "name": "FX_Master_M2_01_C_P_L",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_L",
+      "name": "SFX_Master_M2_01_C_P_L",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_R",
+      "name": "AN_Master_M2_01_C_P_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_R",
+      "name": "HIT_Master_M2_01_C_P_R",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_R",
+      "name": "FX_Master_M2_01_C_P_R",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_R",
+      "name": "SFX_Master_M2_01_C_P_R",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_U",
+      "name": "AN_Master_M2_01_C_P_U",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_U",
+      "name": "HIT_Master_M2_01_C_P_U",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_U",
+      "name": "FX_Master_M2_01_C_P_U",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_U",
+      "name": "SFX_Master_M2_01_C_P_U",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_D",
+      "name": "AN_Master_M2_01_C_P_D",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_D",
+      "name": "HIT_Master_M2_01_C_P_D",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_D",
+      "name": "FX_Master_M2_01_C_P_D",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_D",
+      "name": "SFX_Master_M2_01_C_P_D",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_T",
+      "name": "AN_Master_M2_01_C_P_T",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_T",
+      "name": "HIT_Master_M2_01_C_P_T",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_T",
+      "name": "FX_Master_M2_01_C_P_T",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_P_T",
+      "name": "SFX_Master_M2_01_C_P_T",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_L",
+      "name": "AN_Master_M2_01_C_S_L",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_L",
+      "name": "HIT_Master_M2_01_C_S_L",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_L",
+      "name": "FX_Master_M2_01_C_S_L",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_L",
+      "name": "SFX_Master_M2_01_C_S_L",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_R",
+      "name": "AN_Master_M2_01_C_S_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_R",
+      "name": "HIT_Master_M2_01_C_S_R",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_R",
+      "name": "FX_Master_M2_01_C_S_R",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_S_R",
+      "name": "SFX_Master_M2_01_C_S_R",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_BLUE",
+      "name": "AN_Master_M2_01_C_BLUE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_BLUE",
+      "name": "HIT_Master_M2_01_C_BLUE",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_BLUE",
+      "name": "FX_Master_M2_01_C_BLUE",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_BLUE",
+      "name": "SFX_Master_M2_01_C_BLUE",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_C_OBS",
+      "name": "AN_Master_M2_01_C_OBS",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_W",
+      "name": "AN_Master_M2_01_E_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_R",
+      "name": "AN_Master_M2_01_E_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_SETTLE",
+      "name": "AN_Master_M2_01_E_SETTLE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_L",
+      "name": "AN_Master_M2_01_E_P_L",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_L",
+      "name": "HIT_Master_M2_01_E_P_L",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_L",
+      "name": "FX_Master_M2_01_E_P_L",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_L",
+      "name": "SFX_Master_M2_01_E_P_L",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_R",
+      "name": "AN_Master_M2_01_E_P_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_R",
+      "name": "HIT_Master_M2_01_E_P_R",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_R",
+      "name": "FX_Master_M2_01_E_P_R",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_R",
+      "name": "SFX_Master_M2_01_E_P_R",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_U",
+      "name": "AN_Master_M2_01_E_P_U",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_U",
+      "name": "HIT_Master_M2_01_E_P_U",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_U",
+      "name": "FX_Master_M2_01_E_P_U",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_U",
+      "name": "SFX_Master_M2_01_E_P_U",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_D",
+      "name": "AN_Master_M2_01_E_P_D",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_D",
+      "name": "HIT_Master_M2_01_E_P_D",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_D",
+      "name": "FX_Master_M2_01_E_P_D",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_D",
+      "name": "SFX_Master_M2_01_E_P_D",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_T",
+      "name": "AN_Master_M2_01_E_P_T",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_T",
+      "name": "HIT_Master_M2_01_E_P_T",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_T",
+      "name": "FX_Master_M2_01_E_P_T",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_01_E_P_T",
+      "name": "SFX_Master_M2_01_E_P_T",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_W",
+      "name": "AN_Master_M2_03_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_R",
+      "name": "AN_Master_M2_03_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B1",
+      "name": "AN_Master_M2_03_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B1",
+      "name": "HIT_Master_M2_03_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B1",
+      "name": "FX_Master_M2_03_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B1",
+      "name": "SFX_Master_M2_03_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_G1",
+      "name": "AN_Master_M2_03_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B2",
+      "name": "AN_Master_M2_03_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B2",
+      "name": "HIT_Master_M2_03_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B2",
+      "name": "FX_Master_M2_03_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B2",
+      "name": "SFX_Master_M2_03_B2",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_G2",
+      "name": "AN_Master_M2_03_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B3",
+      "name": "AN_Master_M2_03_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B3",
+      "name": "HIT_Master_M2_03_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B3",
+      "name": "FX_Master_M2_03_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B3",
+      "name": "SFX_Master_M2_03_B3",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_G3",
+      "name": "AN_Master_M2_03_G3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B4",
+      "name": "AN_Master_M2_03_B4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B4",
+      "name": "HIT_Master_M2_03_B4",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B4",
+      "name": "FX_Master_M2_03_B4",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_03_B4",
+      "name": "SFX_Master_M2_03_B4",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_W",
+      "name": "AN_Master_M2_04_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_R",
+      "name": "AN_Master_M2_04_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_RETREAT",
+      "name": "AN_Master_M2_04_RETREAT",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_RED",
+      "name": "AN_Master_M2_04_RED",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_RED",
+      "name": "HIT_Master_M2_04_RED",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_RED",
+      "name": "FX_Master_M2_04_RED",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_04_RED",
+      "name": "SFX_Master_M2_04_RED",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_N_W",
+      "name": "AN_Master_M2_05_N_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_N_R",
+      "name": "AN_Master_M2_05_N_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_N_B1",
+      "name": "AN_Master_M2_05_N_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_N_B1",
+      "name": "HIT_Master_M2_05_N_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_N_B1",
+      "name": "FX_Master_M2_05_N_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_N_B1",
+      "name": "SFX_Master_M2_05_N_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_W",
+      "name": "AN_Master_M2_05_F_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_R",
+      "name": "AN_Master_M2_05_F_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_SPRAY",
+      "name": "AN_Master_M2_05_F_SPRAY",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_SPRAY",
+      "name": "HIT_Master_M2_05_F_SPRAY",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_SPRAY",
+      "name": "FX_Master_M2_05_F_SPRAY",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_SPRAY",
+      "name": "SFX_Master_M2_05_F_SPRAY",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_BLUE",
+      "name": "AN_Master_M2_05_F_BLUE",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_BLUE",
+      "name": "HIT_Master_M2_05_F_BLUE",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_BLUE",
+      "name": "FX_Master_M2_05_F_BLUE",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M2_05_F_BLUE",
+      "name": "SFX_Master_M2_05_F_BLUE",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "R_01_W",
+      "name": "AN_Red_R_01_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_R",
+      "name": "AN_Red_R_01_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B1",
+      "name": "AN_Red_R_01_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B1",
+      "name": "HIT_Red_R_01_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B1",
+      "name": "FX_Red_R_01_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B1",
+      "name": "SFX_Red_R_01_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_G1",
+      "name": "AN_Red_R_01_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B2",
+      "name": "AN_Red_R_01_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B2",
+      "name": "HIT_Red_R_01_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B2",
+      "name": "FX_Red_R_01_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B2",
+      "name": "SFX_Red_R_01_B2",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_G2",
+      "name": "AN_Red_R_01_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B3",
+      "name": "AN_Red_R_01_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B3",
+      "name": "HIT_Red_R_01_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B3",
+      "name": "FX_Red_R_01_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_01_B3",
+      "name": "SFX_Red_R_01_B3",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_W",
+      "name": "AN_Red_R_02_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_R",
+      "name": "AN_Red_R_02_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B1",
+      "name": "AN_Red_R_02_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B1",
+      "name": "HIT_Red_R_02_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B1",
+      "name": "FX_Red_R_02_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B1",
+      "name": "SFX_Red_R_02_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_G1",
+      "name": "AN_Red_R_02_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B2",
+      "name": "AN_Red_R_02_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B2",
+      "name": "HIT_Red_R_02_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B2",
+      "name": "FX_Red_R_02_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B2",
+      "name": "SFX_Red_R_02_B2",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_G2",
+      "name": "AN_Red_R_02_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B3",
+      "name": "AN_Red_R_02_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B3",
+      "name": "HIT_Red_R_02_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B3",
+      "name": "FX_Red_R_02_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_02_B3",
+      "name": "SFX_Red_R_02_B3",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_W",
+      "name": "AN_Red_R_03_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_R",
+      "name": "AN_Red_R_03_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B1",
+      "name": "AN_Red_R_03_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B1",
+      "name": "HIT_Red_R_03_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B1",
+      "name": "FX_Red_R_03_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B1",
+      "name": "SFX_Red_R_03_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_G1",
+      "name": "AN_Red_R_03_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B2",
+      "name": "AN_Red_R_03_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B2",
+      "name": "HIT_Red_R_03_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B2",
+      "name": "FX_Red_R_03_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B2",
+      "name": "SFX_Red_R_03_B2",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_G2",
+      "name": "AN_Red_R_03_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B3",
+      "name": "AN_Red_R_03_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B3",
+      "name": "HIT_Red_R_03_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B3",
+      "name": "FX_Red_R_03_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_03_B3",
+      "name": "SFX_Red_R_03_B3",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_04_W",
+      "name": "AN_Red_R_04_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_04_R",
+      "name": "AN_Red_R_04_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_04_B1",
+      "name": "AN_Red_R_04_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_04_B1",
+      "name": "HIT_Red_R_04_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_04_B1",
+      "name": "FX_Red_R_04_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_04_B1",
+      "name": "SFX_Red_R_04_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_W",
+      "name": "AN_Red_R_05_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_R",
+      "name": "AN_Red_R_05_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B1",
+      "name": "AN_Red_R_05_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B1",
+      "name": "HIT_Red_R_05_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B1",
+      "name": "FX_Red_R_05_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B1",
+      "name": "SFX_Red_R_05_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_G1",
+      "name": "AN_Red_R_05_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B2",
+      "name": "AN_Red_R_05_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B2",
+      "name": "HIT_Red_R_05_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B2",
+      "name": "FX_Red_R_05_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B2",
+      "name": "SFX_Red_R_05_B2",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_G2",
+      "name": "AN_Red_R_05_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B3",
+      "name": "AN_Red_R_05_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B3",
+      "name": "HIT_Red_R_05_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B3",
+      "name": "FX_Red_R_05_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_05_B3",
+      "name": "SFX_Red_R_05_B3",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_07_W",
+      "name": "AN_Red_R_07_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_07_R",
+      "name": "AN_Red_R_07_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_07_B1",
+      "name": "AN_Red_R_07_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_07_B1",
+      "name": "HIT_Red_R_07_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_07_B1",
+      "name": "FX_Red_R_07_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_07_B1",
+      "name": "SFX_Red_R_07_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_08_W",
+      "name": "AN_Red_R_08_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_08_R",
+      "name": "AN_Red_R_08_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_08_B1",
+      "name": "AN_Red_R_08_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_08_B1",
+      "name": "HIT_Red_R_08_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_08_B1",
+      "name": "FX_Red_R_08_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "R_08_B1",
+      "name": "SFX_Red_R_08_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_01_W",
+      "name": "AN_Master_M3_01_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_01_W",
+      "name": "AN_Red_M3_01_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_01_R",
+      "name": "AN_Master_M3_01_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_01_R",
+      "name": "AN_Red_M3_01_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "AN_Master_M3_01_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "AN_Red_M3_01_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "HIT_Master_M3_01_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "HIT_Red_M3_01_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "FX_Master_M3_01_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "FX_Red_M3_01_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "SFX_Master_M3_01_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_01_B1",
+      "name": "SFX_Red_M3_01_B1",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_W",
+      "name": "AN_Master_M3_02_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_W",
+      "name": "AN_Red_M3_02_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_R",
+      "name": "AN_Master_M3_02_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_R",
+      "name": "AN_Red_M3_02_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B1",
+      "name": "AN_Master_M3_02_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B1",
+      "name": "HIT_Master_M3_02_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B1",
+      "name": "FX_Master_M3_02_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B1",
+      "name": "SFX_Master_M3_02_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_G1",
+      "name": "AN_Master_M3_02_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M3_02_G1",
+      "name": "AN_Red_M3_02_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B2",
+      "name": "AN_Red_M3_02_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B2",
+      "name": "HIT_Red_M3_02_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B2",
+      "name": "FX_Red_M3_02_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M3_02_B2",
+      "name": "SFX_Red_M3_02_B2",
+      "type": "SoundBase",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "M4_01_W",
+      "name": "AN_Master_M4_01_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_R",
+      "name": "AN_Master_M4_01_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B1",
+      "name": "AN_Master_M4_01_B1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B1",
+      "name": "HIT_Master_M4_01_B1",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B1",
+      "name": "FX_Master_M4_01_B1",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B1",
+      "name": "SFX_Master_M4_01_B1",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_G1",
+      "name": "AN_Master_M4_01_G1",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B2",
+      "name": "AN_Master_M4_01_B2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B2",
+      "name": "HIT_Master_M4_01_B2",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B2",
+      "name": "FX_Master_M4_01_B2",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B2",
+      "name": "SFX_Master_M4_01_B2",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_G2",
+      "name": "AN_Master_M4_01_G2",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B3",
+      "name": "AN_Master_M4_01_B3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B3",
+      "name": "HIT_Master_M4_01_B3",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B3",
+      "name": "FX_Master_M4_01_B3",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B3",
+      "name": "SFX_Master_M4_01_B3",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_G3",
+      "name": "AN_Master_M4_01_G3",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B4",
+      "name": "AN_Master_M4_01_B4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B4",
+      "name": "HIT_Master_M4_01_B4",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B4",
+      "name": "FX_Master_M4_01_B4",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B4",
+      "name": "SFX_Master_M4_01_B4",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_G4",
+      "name": "AN_Master_M4_01_G4",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B5",
+      "name": "AN_Master_M4_01_B5",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B5",
+      "name": "HIT_Master_M4_01_B5",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B5",
+      "name": "FX_Master_M4_01_B5",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B5",
+      "name": "SFX_Master_M4_01_B5",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_G5",
+      "name": "AN_Master_M4_01_G5",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B6",
+      "name": "AN_Master_M4_01_B6",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B6",
+      "name": "HIT_Master_M4_01_B6",
+      "type": "HitVolumeDefinition",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B6",
+      "name": "FX_Master_M4_01_B6",
+      "type": "NiagaraSystem",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "M4_01_B6",
+      "name": "SFX_Master_M4_01_B6",
+      "type": "SoundBase",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "U_HEAL_W",
+      "name": "AN_Master_U_HEAL_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "U_HEAL_W",
+      "name": "AN_Red_U_HEAL_W",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "U_HEAL_R",
+      "name": "AN_Master_U_HEAL_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "U_HEAL_R",
+      "name": "AN_Red_U_HEAL_R",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "A_M_DEAD",
+      "name": "AN_Master_A_M_DEAD",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Master",
+      "binding": null
+    },
+    {
+      "state": "A_RED_DEAD",
+      "name": "AN_Red_A_RED_DEAD",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Red",
+      "binding": null
+    },
+    {
+      "state": "A_D_DEAD",
+      "name": "AN_Disciple_A_D_DEAD",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "Disciple",
+      "binding": null
+    },
+    {
+      "state": "A_PURSUED",
+      "name": "AN_TargetActor_A_PURSUED",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "TargetActor",
+      "binding": null
+    },
+    {
+      "state": "A_EXECUTED",
+      "name": "AN_TargetActor_A_EXECUTED",
+      "type": "AnimMontage/AnimSequence",
+      "target_role": "TargetActor",
+      "binding": null
+    }
+  ],
+  "fallback": "LogicalDurationElapsed with valid BattleID/Epoch/ActionID; no fabricated combat outcomes"
+}

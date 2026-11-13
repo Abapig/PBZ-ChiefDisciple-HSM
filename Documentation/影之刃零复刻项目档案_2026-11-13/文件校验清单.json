@@ -1,0 +1,362 @@
+[
+  {
+    "path": "00_阅读入口.md",
+    "bytes": 1772,
+    "sha256": "862be44a191d7daafbfb0c40dc753dec935bbca36cea0637fd99b1e2b4c85f18"
+  },
+  {
+    "path": "原始对话.md",
+    "bytes": 61429,
+    "sha256": "691ccd0951b266f11a91f5e20f4ff9b5ab82adba7d1765a5c430d36da230ec84"
+  },
+  {
+    "path": "原始记录/对话原文.json",
+    "bytes": 88661,
+    "sha256": "ac5608c5f9db0c29afa9d48262daf574e72f2262113a99374d58ada8143e0acd"
+  },
+  {
+    "path": "原始记录/用户原始提示词.json",
+    "bytes": 18280,
+    "sha256": "499c4e8c788c32bdb403d36b795ff281f6acd83b7da1c7de354b748583fe6993"
+  },
+  {
+    "path": "参考附件/Content/Python/init_unreal.py",
+    "bytes": 942,
+    "sha256": "2ae548bce2546012248e4a04e4d1e1a7686ecd401064ee200877a82fff157b7f"
+  },
+  {
+    "path": "参考附件/Research/Step1/Boss战第一步调研.md",
+    "bytes": 60410,
+    "sha256": "602ab3705cf9e4e71d834853d9b4a6ecbd5c77c31be1296e0d903277befedad3"
+  },
+  {
+    "path": "参考附件/Research/Step1/第一步验收规则.md",
+    "bytes": 4253,
+    "sha256": "3e577e027897154a2844df87570462aa8075f79ca7ad77ccbee4bc1c3032ab03"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/build_review.py",
+    "bytes": 22042,
+    "sha256": "13a7b97c1f961865686d6bb1b8978ede06085ad8a2e5cd0d28cee8c34a86f03c"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/catalog.py",
+    "bytes": 4470,
+    "sha256": "ab390f4d5f39778cd91aa22ff44c4677560d3a67911d0dd7147b5b87b27cc4e8"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/frequency_check.csv",
+    "bytes": 1401,
+    "sha256": "edf5ee0ef1e36778559a7639c64811af1779c015c09e1720e69bad22555cb1b1"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/move_catalog.json",
+    "bytes": 15688,
+    "sha256": "0bee58564bbc13155f3ceb87dc2ba2845ac752350dc446fb66a67b63605fb617"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/policy.py",
+    "bytes": 22138,
+    "sha256": "d57f416026923a18aae19580bdad851ce9869d91e6eb38a13571ad2b10181158"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/probability_scenarios.csv",
+    "bytes": 99129,
+    "sha256": "247d313d50ffcca3e91df9b748ebf4c42abb62c12f1d84856fe1dd21d8b869de"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/README.md",
+    "bytes": 1198,
+    "sha256": "184f4e2baa94b0d1da33a3f6bf206dfcb93d9223d5bac5dff32dcb26838081ec"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/scenario_summary.csv",
+    "bytes": 2413,
+    "sha256": "f1b20d60ff61cbe55d8ba14fd98b99ed6e251c9b2078f227b75e8efdffaf6adb"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/simulation_results.json",
+    "bytes": 1095686,
+    "sha256": "9ad595aa1e5c05abece453dbee65403059064e4b5c962934a67e9bd00dba7110"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/verify.py",
+    "bytes": 31536,
+    "sha256": "ce5a93374cb75890985ef1c3817ce0bc75e58d2b37822d59943501938d73e009"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/战斗决策工程规格.md",
+    "bytes": 34036,
+    "sha256": "fe00ed0d749edbcf6a730db521bce46285a3a36e9cd7efdb1109e72a36dec55d"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/概率检查器.html",
+    "bytes": 127102,
+    "sha256": "3d5bda77f3f1d2814c6a9b1861416977a22b38cc9b1f524b8cfbd52dca1c2ee7"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/模拟与核对报告.md",
+    "bytes": 8828,
+    "sha256": "d80568716a40557930e5da76aab5fde1388e2c4ca3b9466a4509040b883933d4"
+  },
+  {
+    "path": "参考附件/Research/Step2/Engineering/逐招参数与概率表.md",
+    "bytes": 7127,
+    "sha256": "10b944be9e27fa3550a7298f045dcf8c4374927fc7cf1dee156a47863cdbedd2"
+  },
+  {
+    "path": "参考附件/Research/Step2/逆天者动态压力与出招机制调研.md",
+    "bytes": 23318,
+    "sha256": "21afd9cf8109f5e6eb8316c054cb932ebae3f7b2e8959b9611da6c126b4a3b82"
+  },
+  {
+    "path": "参考附件/Research/Step3/asset_bindings.json",
+    "bytes": 92382,
+    "sha256": "28e2f3e2373ee52443d19dad4fc44ba7d14a1f9c77dcf6e351071a12b3eb9f8e"
+  },
+  {
+    "path": "参考附件/Research/Step3/Boss全量分层状态机.html",
+    "bytes": 1235812,
+    "sha256": "39b22e60dcdecc07a664603e14d4b5835c92eb0dc8788e5c5a145d57fa1550f2"
+  },
+  {
+    "path": "参考附件/Research/Step3/Boss全量分层状态机.svg",
+    "bytes": 700716,
+    "sha256": "a89194d8cb4099bffaa71d873de5cf3a5a57983592ef0e4cec04ca6a34c61745"
+  },
+  {
+    "path": "参考附件/Research/Step3/Boss全量分层状态机总览.png",
+    "bytes": 6286118,
+    "sha256": "f7f4d674bf351b925a3d9a3e359995007e3d222ffd6e048435884d27c8862d3a"
+  },
+  {
+    "path": "参考附件/Research/Step3/browser_review.json",
+    "bytes": 710,
+    "sha256": "e397705b516a1138d8959c6086beec69efd1f2c4581855a8c5114b61bd068b4c"
+  },
+  {
+    "path": "参考附件/Research/Step3/build_fsm.py",
+    "bytes": 72120,
+    "sha256": "97c823bdf7d8b6951a8a85371b31d638b1f53c8367059ec9a53dc97d62e4c76b"
+  },
+  {
+    "path": "参考附件/Research/Step3/fsm_graph.json",
+    "bytes": 835321,
+    "sha256": "846ec8d28ee6f2a01dfcd9d0e6d6c53d7bd1aced19bc2b056011d2c6fe08c97f"
+  },
+  {
+    "path": "参考附件/Research/Step3/graph_audit.json",
+    "bytes": 416,
+    "sha256": "9e71be6ed63dc8f83925349576f3c5e827bb0a67c4558cc94084b9935ac60158"
+  },
+  {
+    "path": "参考附件/Research/Step3/parameter_interfaces.json",
+    "bytes": 19538,
+    "sha256": "5ea04d98ff6180e19a30c77029faf021380cd53752f4cd6650689aa036275579"
+  },
+  {
+    "path": "参考附件/Research/Step3/README.md",
+    "bytes": 6607,
+    "sha256": "8b54688a60b060d8b4cefaede817c682141254b86ff3d0134e626d52c42fedf1"
+  },
+  {
+    "path": "参考附件/Research/Step3/render_review.mjs",
+    "bytes": 6236,
+    "sha256": "a7577e28f9701b28ef2f7fa5ea9736a2f0a2dc30c9c88b48452772206e85ba2e"
+  },
+  {
+    "path": "参考附件/Research/Step3/viewer.template.html",
+    "bytes": 17415,
+    "sha256": "b92aff95e35808a73ba37d1197a166b6a4bde435747c9814d0eef6da0b395724"
+  },
+  {
+    "path": "参考附件/Research/Step3/全部状态与条件索引.md",
+    "bytes": 173851,
+    "sha256": "048c1fbd44fcda0f241daa97f283208434cac7df7cd8ddc56eb1c62873cf3245"
+  },
+  {
+    "path": "参考附件/Research/Step3/全部状态转换.csv",
+    "bytes": 98710,
+    "sha256": "44f0f88d9dbf6045fa094681d4608f23d2129c64809236d583853e1c18076085"
+  },
+  {
+    "path": "参考附件/Research/Step3/变招条件详情预览.png",
+    "bytes": 313829,
+    "sha256": "3d768d041139ef1cbc55514760253178a3584d041c5fd3b8058ba3115eb5aa4a"
+  },
+  {
+    "path": "参考附件/Research/Step3/连招状态与连线预览.png",
+    "bytes": 871615,
+    "sha256": "5419c827f0b582cf015bd408696fef38d0f10c19c8f6314473e4722afe8d3579"
+  },
+  {
+    "path": "参考附件/Research/Step3/阶段总控预览.png",
+    "bytes": 405873,
+    "sha256": "7d1144d28385b4138b40ff89845b27b2a4af5799346e972f89f978cd865592dc"
+  },
+  {
+    "path": "参考附件/Saved/BossImplementation/blueprint_build.json",
+    "bytes": 277,
+    "sha256": "0d5b6bb5e8bb5907d6f1a6096d7bad5e5d449c360802fcd148de5c8423f5bc24"
+  },
+  {
+    "path": "参考附件/Saved/BossImplementation/learning_verification.json",
+    "bytes": 1339,
+    "sha256": "e6af7078046c07049367ec44933e026af708d4ffd8e250c5f31557b3dae8c260"
+  },
+  {
+    "path": "参考附件/Saved/BossImplementation/runtime_verification.json",
+    "bytes": 4279,
+    "sha256": "479713cdf689c4352a42cc0fcb6133781b40989e266484072de0016e86bc19dc"
+  },
+  {
+    "path": "参考附件/Saved/BossImplementation/scene_build.json",
+    "bytes": 305,
+    "sha256": "f2459c3673abd3010fe808d842d3a531e5245f2ee3ac3beeaf77fa2b9e745364"
+  },
+  {
+    "path": "参考附件/Saved/UnrealMCP/blueprint_probe.json",
+    "bytes": 10699,
+    "sha256": "4dacbde171870cb1c0a80b8d3d5866fdf14b95b1cfff897b467af92b9979be62"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/bp_dsl.py",
+    "bytes": 8099,
+    "sha256": "b48fda27a07cfd6700db42df280a1a1b9c6ebcf7473905454e32ce08d5ec8877"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/build_runtime.py",
+    "bytes": 73630,
+    "sha256": "fb06b39eea8b8a9572f488c0f74c238fc9cb010980e5bc1eab5932f750a037f2"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/build_scene.py",
+    "bytes": 8009,
+    "sha256": "422bf6ed408b9d531ed18289dac334748d6933933cb59768d229c6387fcba329"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/probe_builder.py",
+    "bytes": 745,
+    "sha256": "e6e817c877fd55a73ead356e4e7fbe3c87e6afb0c6c3e3f87f803afe2a041478"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/README.md",
+    "bytes": 9415,
+    "sha256": "2907db72a5645dee76563639e9f7c3cdb7ee78770943e707cdeac1604ee87a2e"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/verify_learning.py",
+    "bytes": 2870,
+    "sha256": "63a43a8252e7c7d7bb5c567d3d17e089ae6fb11fd25964ce1942ab9443dc9ee0"
+  },
+  {
+    "path": "参考附件/Tools/BossLab/verify_runtime.py",
+    "bytes": 6245,
+    "sha256": "e35b543bc560d11c02ff6a0683099136e9b2c34bffe9cf64494550899f54d5c7"
+  },
+  {
+    "path": "参考附件/Tools/UnrealMCP/call.py",
+    "bytes": 2352,
+    "sha256": "26f527d6e09008ab9684da5b9c99598e8a080784177c8f6536180f77ddd02922"
+  },
+  {
+    "path": "参考附件/Tools/UnrealMCP/check_runtime_api.py",
+    "bytes": 1162,
+    "sha256": "58a038d5748c346c98ca765b7d1506b97f79cfdefddcc25ffa2648a8fc471ec6"
+  },
+  {
+    "path": "参考附件/Tools/UnrealMCP/probe_blueprint.py",
+    "bytes": 6255,
+    "sha256": "4c3eaa09d4ca1bbd35c4dba4958f7f120825aba13552a1a2929e4521e36fb89a"
+  },
+  {
+    "path": "参考附件/Tools/UnrealMCP/README.md",
+    "bytes": 2919,
+    "sha256": "f592d2e3f993c99725a3b5e5a9a2ea47dbc978343161b2d4022dce84ab3d7450"
+  },
+  {
+    "path": "参考附件/Tools/UnrealMCP/server.py",
+    "bytes": 7365,
+    "sha256": "bbb8daa8a9f9b3696df9c1a7a4377a5888463b94630b5cf1ad277582c384f6f3"
+  },
+  {
+    "path": "参考附件索引.json",
+    "bytes": 13545,
+    "sha256": "a38c5501e5f970ffdf0cebbdc1137487e7efb558513fdf9163bb2f2d3437df4c"
+  },
+  {
+    "path": "图片/UE白盒运行截图.png",
+    "bytes": 1083652,
+    "sha256": "ffba8a66e0e9cb02b4375b66007f17ddb092b939c8f1caa08708349a1eae9154"
+  },
+  {
+    "path": "图片/文档阅读预览.png",
+    "bytes": 134019,
+    "sha256": "75156c1ee81c6a98cd5e3f3a1640135924f4e95bd00affad7f9d20bf869a43c9"
+  },
+  {
+    "path": "图片/状态机全图预览.png",
+    "bytes": 6286118,
+    "sha256": "f7f4d674bf351b925a3d9a3e359995007e3d222ffd6e048435884d27c8862d3a"
+  },
+  {
+    "path": "图片/用户原始参考图_1.png",
+    "bytes": 1763562,
+    "sha256": "29b456b1e938cf54b1bb67815fca4244a341d12d3bd65f206bf09736571e5d5f"
+  },
+  {
+    "path": "归档说明.json",
+    "bytes": 2413,
+    "sha256": "1463e7211f9095fa8997883132b93e25332b221ebdc0807b9fccd2c2d708ca94"
+  },
+  {
+    "path": "影之刃零复刻项目完整记录与通用流程.docx",
+    "bytes": 10591623,
+    "sha256": "dc1980ea726208151611cb79ac8544c9aea408dacc9ffce1f712697453f2a3a6"
+  },
+  {
+    "path": "影之刃零复刻项目完整记录与通用流程.html",
+    "bytes": 125403,
+    "sha256": "94a6382e781bcc5a54c6ed61b6b6fe3151b26f7952cf70f9c7eb00566b5b150c"
+  },
+  {
+    "path": "影之刃零复刻项目完整记录与通用流程.md",
+    "bytes": 91511,
+    "sha256": "7cf54f669c77d0a072f1af4d77e195625a97e0fed0dc666419d9a8edda3cd5bd"
+  },
+  {
+    "path": "影之刃零复刻项目完整记录与通用流程.pdf",
+    "bytes": 9554831,
+    "sha256": "28817ccaf9020b1bcf9e127bde0f1f21fe3d480ca26e618133be36d458de909a"
+  },
+  {
+    "path": "文档校验报告.json",
+    "bytes": 405,
+    "sha256": "273c000c19653fed89dda72804db125ad1b3b528cefeac5cc1e9e04ba3cd9388"
+  },
+  {
+    "path": "浏览器校验报告.json",
+    "bytes": 538,
+    "sha256": "8ddfeea76c414e0535c4afd23db6bf1f38afe86babbffabbb1607646855b37e0"
+  },
+  {
+    "path": "用户原始提示词.md",
+    "bytes": 15313,
+    "sha256": "b2b3c27dc41ec29747ed1d7000f72a82901b9cd2433933490e636249e3249ff5"
+  },
+  {
+    "path": "配置快照/unreal_project.json",
+    "bytes": 356,
+    "sha256": "c2fc4b01b486d60e8a43a3b18951efcff1d8d31dd90826ea883b4911f0a3c70d"
+  },
+  {
+    "path": "配置快照/unreal_project.toml",
+    "bytes": 358,
+    "sha256": "d15b73c688214fa75fae7fc8347f1ccb0e87b908fc8d1f24c78ff54324434ba2"
+  },
+  {
+    "path": "配置快照/配置来源说明.txt",
+    "bytes": 327,
+    "sha256": "f11da9ae453c87a83bb098d91c83e986ba9d78cf1c5fdd2c17addf5cd3b1bd37"
+  }
+]

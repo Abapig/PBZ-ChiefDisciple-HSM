@@ -1,0 +1,43 @@
+{
+  "title": "影之刃零复刻项目完整记录与通用流程",
+  "created_date_beijing": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "source_session": "C:\\Users\\Lenovo\\.codex\\sessions\\2026\\11\\11\\rollout-2026-11-11T15-43-24-01a1c98f-c2e0-7e42-a0d0-3e68bc871e53.jsonl",
+  "session_id": "01a1c98f-c2e0-7e42-a0d0-3e68bc871e53",
+  "source_file_snapshot_bytes": 24110058,
+  "source_file_snapshot_sha256": "b717424bcc20a8b24c521e784bc68e3fc8c24367a3e858de87b4a035a660e0c9",
+  "source_prefix_through_cutoff_sha256": "8af46e72796ca2afe261560446dbb7ce4802696a6d7fb0059a1c9fb1af52f619",
+  "cutoff_source_line": 2142,
+  "cutoff_text": "把这个影之刃零复刻项目及其前置的MCP配置过程整理成一份文档放在文件夹中，要求：需要包含我们之间的原始对话和我的原始提示词，再把整个复刻过程整理成一套通用的流程\n",
+  "first_timestamp": "2026-11-11 15:44:27",
+  "last_timestamp": "2026-11-13 08:03:21",
+  "counts": {
+    "user": 17,
+    "assistant": 59,
+    "assistant_question": 2
+  },
+  "total_messages": 78,
+  "display_fallbacks": 0,
+  "excluded": {
+    "environment_messages": 4,
+    "compaction_summaries": 3
+  },
+  "attachments": [
+    {
+      "path": "图片/用户原始参考图_1.png",
+      "sha256": "29b456b1e938cf54b1bb67815fca4244a341d12d3bd65f206bf09736571e5d5f",
+      "source": "session input_image",
+      "source_line": 1274,
+      "bytes": 1763562
+    }
+  ],
+  "scope": "用户消息、对外进度/最终回复及可见交互问题；不含系统/开发者提示、工具执行日志、内部推理或压缩交接摘要。",
+  "original_text_policy": "逐条文本不改写、不去尾部换行；补充编号、时间和来源行；图片单独恢复。异步确认保留原记录封装。",
+  "cutoff_policy": "归档到用户本次完整整理请求（含上一条被中断请求）；不把本次整理过程自身递归收入。",
+  "limitations": [
+    "仅归档这条已定位的本地会话；不声称包含其他聊天或语音原始录音。",
+    "用户异步确认的原始记录包含界面封装；展示另作说明，未改写原始字段。",
+    "原始回复中的绝对链接保留；便携副本以本档案附件路径为准。",
+    "原始日志是持续追加文件；完整文件哈希对应导出时快照，截断前缀哈希用于稳定核对。"
+  ]
+}

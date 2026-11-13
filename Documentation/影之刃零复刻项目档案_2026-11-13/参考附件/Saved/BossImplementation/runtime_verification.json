@@ -1,0 +1,168 @@
+{
+  "passed": 32,
+  "total": 32,
+  "checks": [
+    {
+      "test": "phase_1_admission",
+      "pass": true,
+      "details": "['M1-01-L', 'M1-01-R', 'M1-01-D', 'M1-01-J', 'M1-01-T', 'M1-01-U', 'M1-01-K', 'M1-02', 'M1-03', 'M1-04', 'M1-07', 'M1-09']"
+    },
+    {
+      "test": "phase_1_probabilities",
+      "pass": true,
+      "details": "{'sum': 1.0, 'max': 0.1168761485158544, 'n': 12}"
+    },
+    {
+      "test": "phase_2_admission",
+      "pass": true,
+      "details": "['M2-01-A', 'M2-01-B', 'M2-01-C', 'M2-01-D', 'M2-01-E', 'M2-01-F', 'M2-03', 'M2-04', 'M2-05-N']"
+    },
+    {
+      "test": "phase_2_probabilities",
+      "pass": true,
+      "details": "{'sum': 1.0, 'max': 0.1727567855545629, 'n': 9}"
+    },
+    {
+      "test": "phase_3_admission",
+      "pass": true,
+      "details": "['M2-01-A', 'M2-01-B', 'M2-01-C', 'M2-01-D', 'M2-01-E', 'M2-01-F', 'M2-03', 'M2-04', 'M2-05-N', 'M3-01', 'M3-02', 'R-01', 'R-02', 'R-03', 'R-04', 'R-05', 'R-07', 'R-08']"
+    },
+    {
+      "test": "phase_3_probabilities",
+      "pass": true,
+      "details": "{'sum': 1.0, 'max': 0.09315835525496999, 'n': 18}"
+    },
+    {
+      "test": "phase_4_admission",
+      "pass": true,
+      "details": "['M2-01-A', 'M2-01-B', 'M2-01-C', 'M2-01-D', 'M2-01-E', 'M2-01-F', 'M2-03', 'M2-04', 'M2-05-N', 'M4-01']"
+    },
+    {
+      "test": "phase_4_probabilities",
+      "pass": true,
+      "details": "{'sum': 1.0, 'max': 0.14990490409741247, 'n': 10}"
+    },
+    {
+      "test": "no_passive_qi_regen",
+      "pass": true,
+      "details": "(75.0, 75.0)"
+    },
+    {
+      "test": "qi_break_not_ground",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "ground_and_break_independent",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "ground_expires_before_break",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "break_recovers",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "participant_break_cancels_formation",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "detached_nonparticipant_does_not_cancel",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "one_detachment_slot",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "summon_to_three_cost_one_third",
+      "pass": true,
+      "details": "[2000.0, 350.0, 0.0, 0.0, 0.0, 350.0, 350.0, 0.0]"
+    },
+    {
+      "test": "summon_forbidden_at_exact_third",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "drain_conserves_hp",
+      "pass": true,
+      "details": "([2100.0, 350.0, 350.0, 350.0, 350.0, 350.0, 350.0, 0.0], [2449.0, 1.0, 350.0, 350.0, 350.0, 350.0, 350.0, 0.0])"
+    },
+    {
+      "test": "M2-01-A_pattern",
+      "pass": true,
+      "details": "[1, 2, 3, 4, 15]"
+    },
+    {
+      "test": "M2-01-B_pattern",
+      "pass": true,
+      "details": "[1, 2, 15]"
+    },
+    {
+      "test": "M2-01-D_pattern",
+      "pass": true,
+      "details": "[5, 5, 15]"
+    },
+    {
+      "test": "M2-01-F_pattern",
+      "pass": true,
+      "details": "[15]"
+    },
+    {
+      "test": "M4-01_pattern",
+      "pass": true,
+      "details": "[1, 2, 3, 4, 1, 14]"
+    },
+    {
+      "test": "near_red_spray_no_blue",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "finite_pool_legal_edges",
+      "pass": true,
+      "details": "{1, 2, 3, 4}"
+    },
+    {
+      "test": "red_first_enrage",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "master_first_suicide",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "response_dedup",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "pressure_two_second_positive_cap",
+      "pass": true,
+      "details": "48.0"
+    },
+    {
+      "test": "full_demo_terminates",
+      "pass": true,
+      "details": "{'phase': 4, 'hits': 33}"
+    },
+    {
+      "test": "registered_page",
+      "pass": true,
+      "details": null
+    }
+  ],
+  "asset": "/Game/BossLab/Blueprints/BP_BossEncounter_Final.BP_BossEncounter_Final",
+  "runtime": "actual native Blueprint functions in PIE"
+}

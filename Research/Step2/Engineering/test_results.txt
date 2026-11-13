@@ -1,0 +1,30 @@
+test_attack_fallback_finite (__main__.Invariants.test_attack_fallback_finite) ... ok
+test_branch_responds_to_completed_outcomes (__main__.Invariants.test_branch_responds_to_completed_outcomes) ... ok
+test_calendar_cancellation_and_spacing (__main__.Invariants.test_calendar_cancellation_and_spacing) ... ok
+test_calendar_matches_duration (__main__.Invariants.test_calendar_matches_duration) ... ok
+test_combo_structure_and_branches (__main__.Invariants.test_combo_structure_and_branches) ... ok
+test_cooldown_and_repeat (__main__.Invariants.test_cooldown_and_repeat) ... ok
+test_distribution_boundaries (__main__.Invariants.test_distribution_boundaries) ... ok
+test_far_spray_followup_rechecks_range (__main__.Invariants.test_far_spray_followup_rechecks_range) ... ok
+test_future_branch_envelope (__main__.Invariants.test_future_branch_envelope) ... ok
+test_ground_and_break_independent (__main__.Invariants.test_ground_and_break_independent) ... ok
+test_health_service_no_energy_loop (__main__.Invariants.test_health_service_no_energy_loop) ... ok
+test_health_thresholds_and_target (__main__.Invariants.test_health_thresholds_and_target) ... ok
+test_learning_abort_and_eligibility (__main__.Invariants.test_learning_abort_and_eligibility) ... ok
+test_learning_frozen_bounded_and_once (__main__.Invariants.test_learning_frozen_bounded_and_once) ... ok
+test_lease_atomicity_interrupt_epoch (__main__.Invariants.test_lease_atomicity_interrupt_epoch) ... ok
+test_lethal_threshold_and_simultaneous_death (__main__.Invariants.test_lethal_threshold_and_simultaneous_death) ... ok
+test_master_stunned_disciples_still_attack (__main__.Invariants.test_master_stunned_disciples_still_attack) ... ok
+test_no_natural_qi_recovery (__main__.Invariants.test_no_natural_qi_recovery) ... ok
+test_phase_change_does_not_reset_inherited_cooldowns (__main__.Invariants.test_phase_change_does_not_reset_inherited_cooldowns) ... ok
+test_phase_transactions (__main__.Invariants.test_phase_transactions) ... ok
+test_pressure_does_not_use_memory_or_spam (__main__.Invariants.test_pressure_does_not_use_memory_or_spam) ... ok
+test_pressure_precedence_caps_and_dedup (__main__.Invariants.test_pressure_precedence_caps_and_dedup) ... ok
+test_probability_caps (__main__.Invariants.test_probability_caps) ... ok
+test_red_heal_conservation (__main__.Invariants.test_red_heal_conservation) ... ok
+test_separate_actor_ranges (__main__.Invariants.test_separate_actor_ranges) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 0.076s
+
+OK

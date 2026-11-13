@@ -1,0 +1,11 @@
+[mcp_servers.unreal_project]
+command = "D:\\Program Files\\Unreal\\UE_5.8\\Engine\\Binaries\\ThirdParty\\Python3\\Win64\\python.exe"
+args = [
+  "-B",
+  "-u",
+  "D:\\GameDev\\practice\\我的项目\\Tools\\UnrealMCP\\server.py",
+  "--engine",
+  "D:\\Program Files\\Unreal\\UE_5.8\\Engine",
+  "--project",
+  "D:\\GameDev\\practice\\我的项目",
+]

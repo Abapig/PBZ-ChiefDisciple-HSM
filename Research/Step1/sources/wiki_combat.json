@@ -1,0 +1,522 @@
+{
+  "id": "wiki_combat",
+  "url": "https://wiki.biligame.com/yingzhiren/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F",
+  "query": null,
+  "retrieved_utc": "2026-11-11T08:52:07.779587+00:00",
+  "final_url": "https://wiki.biligame.com/yingzhiren/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F",
+  "text": "战斗系统 - 影之刃WIKI_BWIKI_哔哩哔哩\n我的消息\n关于本站\n本WIKI于2025年6月12日由大梵哥fange创建\n首页\n世界观\n世界观设定\n势力总览\n地理总览\n历史年表\n游戏考据\n所有角色\n游戏角色\n头目\nNPC\n人形怪\n兽形怪\n游戏攻略\n战斗系统\n难度与成就\n收集要素\n主线关卡\n装备系统\n主武器\n影之武装\n药瓶\n饰品\n游戏地图\n总览\n悲泣溪谷\n血色森林\n陆家村\n庞镇\n正道大营\n梅谷湖\n枷笼山\n戏梦山庄\n断魂山\n资源下载\nMOD下载\n雨血下载\n存档下载\n工具下载\n游戏图库\n首页\n世界观\n世界观设定\n势力总览\n地理总览\n历史年表\n游戏考据\n所有角色\n游戏角色\n头目\nNPC\n人形怪\n兽形怪\n游戏攻略\n战斗系统\n难度与成就\n收集要素\n主线关卡\n装备系统\n主武器\n影之武装\n药瓶\n饰品\n游戏地图\n总览\n悲泣溪谷\n血色森林\n陆家村\n庞镇\n正道大营\n梅谷湖\n枷笼山\n戏梦山庄\n断魂山\n资源下载\nMOD下载\n雨血下载\n存档下载\n工具下载\n游戏图库\n本站点由影之刃贴吧吧务组创建并维护，旨在为热爱影之刃系列IP的粉丝与创作者们提供帮助，与灵游坊无从属关系。\n编辑帮助:目录 • BWIKI反馈留言板\n全站通知：\n战斗系统\nWIKI功能\n阅读\n查看源代码\n查看历史\n浏览属性\n页面贡献者\n刷\n历\n编\n阅读\n2026-11-11更新\n最新编辑:云寻风\n阅读：\n更新日期：2026-11-11\n最新编辑：云寻风\n来自影之刃WIKI_BWIKI_哔哩哔哩\n跳到导航\n跳到搜索\n页面贡献者 :\n云寻风\n+关注\n大梵哥fange\n+关注\n洛恩佐Lorenzo\n+关注\n系统Friday\n+关注\n战斗是影之刃零的核心驱动力。以下描述均为能力修行影响后的结果。\n目录\n1 一、战斗资源\n2 二、装备配置\n3 三、基础动作\n4 四、攻防博弈\n5 五、绝技与特殊战斗\n一、战斗资源\n机制\n说明\n生命值\n魂的生命上限可通过收集记忆之花增加；战斗中实时生命除受攻击下降外，还会被药瓶、武器等效果影响，可能参与战斗资源循环。详见生命值\n杀气条\n最重要的战斗资源之一。魂和大部分敌人均有杀气条。通过收集杀气琥珀增加杀气条上限。受伤害、架势状态、自动格挡、使用杀气攻击会消耗杀气；一段时间不消耗后逐渐恢复。敌人格挡攻击会消耗杀气。\n精纯杀气\n用于释放【绝技】。通过攻击敌人获取精纯杀气条，条满后获得一点精纯杀气。相比普通攻击，杀气攻击能更快积累精纯杀气。\n二、装备配置\n机制\n说明\n装备\n魂能同时装备两把主武器、两把影之武装、两种药瓶、六件饰品。\n主武器\n最多同时装备两把，是主要战斗方式。每把武器的攻击力、破盾值、攻击及杀气攻击、绝技、处决动作都不同。\n影之武装\n使用【影之武装】需要消耗暗源。可随时切换装备的两把影之武装；部分可攻克巨盾敌人防御，部分对特定敌人有克制效果。【影之武装】对血量较少的破防敌人可以触发【追击】,此时不消耗暗源\n药瓶\n不同药瓶提供恢复生命、增加攻击力、提高精纯杀气积累速度等效果，部分改变动作模组。击杀杂兵概率恢复使用次数。\n饰品\n提供不同被动效果，最多装备六个。饰品分为攻击、生存、辅助三类，同类饰品最多装备三个。\n三、基础动作\n机制\n说明\n架势\n长按防御键进入架势状态，持续消耗杀气并自动格挡大部分攻击，格挡成功后将额外消耗杀气，同时削减敌人少量杀气。破防状态下无法进入。\n闪避\n魂闪避时免疫一切攻击，某些武器会改变闪避动作及性能。\n普通攻击\n不消耗杀气，伤害较低，命中后可削减敌人较少杀气，可组成连段。使用普通攻击时，杀气会自动恢复。\n杀气攻击\n消耗杀气，伤害较高，命中后可削减敌人较多杀气。某些武器杀气充足时有额外效果，比普通攻击更强。自身杀气充足时使用【杀气攻击】会冒蓝光\n攻击连段\n由当前武器多次攻击、杀气攻击或两者组合形成；带杀气攻击的称为杀气连段。可被格挡闪避随时取消，武器升级可解锁专属连段。\n跳跃\n跳跃时可使用武器攻击和影之武装，部分武器/影之武装跳跃攻击时动作性能变化。跳跃后接普通攻击可以快速追击远处的敌人。\n武器切换\n切换主武器时回满杀气条，切换后武器进入冷却，可脱离破防状态。切换武器的瞬间会自动使出攻击招式（详见武器切换）。能力修行中的先声夺人可将该招式替换成特殊招式。\n潜行/暗杀\n下蹲进入潜行状态，潜到杂兵身后可触发暗杀；两个杂兵相近时可触发连续暗杀。魂位于杂兵上方且未进入战斗状态时跳下也可触发暗杀。普通小怪被暗杀后一击毙命，稍强的精英怪被暗杀后会受到较多伤害，部分敌人无法暗杀（如：爆弹客）。\n四、攻防博弈\n机制\n说明\n破防\n敌我杀气槽被攻击清空时进入【破防】状态。破防瞬间杀气条会闪红光。破防后杀气槽快速恢复至满脱离。我方破防期间，无法进入架势状态和使用需杀气招式，无法触发完美闪避。切换武器可瞬间脱离破防。敌方破防瞬间触发大硬直并打断动作，破防期间，无法格挡，受伤害增加，出招更容易被打断。\n完美格挡\n敌人普通攻击打中前按格挡键可进行【完美格挡】。【完美格挡】不会消耗自身杀气，反而会使得进攻方损失大量杀气。【完美格挡】成功时，武器会迸发火光。\n蓝光攻击\n敌人蓝光攻击：魂自动格挡消耗大量杀气并出现硬直；【完美格挡】则触发鬼步并恢复大量杀气、削减敌人大量杀气。\n红光攻击\n敌人红光攻击：不可格挡；【完美闪避】则触发鬼步并回复大量杀气，部分敌人触发专属动画和QTE。\n全力一击/黑光攻击\n敌人黑光攻击：魂普通格挡后削减巨量杀气。高难度下命中后直接【破防】，完美格挡会剩一丝杀气。部分装备可以不掉杀气格挡全力一击。\n敌人架招\n某些敌人会架招，魂在敌人架招状态攻击会触发敌人投技。\n鬼步\n【完美格挡】蓝光和【完美闪避】红光后触发，魂瞬移到敌人身后，此时攻击敌人无法格挡，造成大量伤害。\n五、绝技与特殊战斗\n机制\n说明\n武器绝技\n魂消耗精纯杀气使用，不同武器需求数量不等。绝技释放期间可能获得未知级别霸体，打断敌人大部分动作，同时削减敌人血量和杀气。\n追击\n敌人血量下降到一定程度后，会触发影之武装的追击。触发追击时不消耗暗源。不同的敌人对应不同的影之武装。详见追击\n处决\n杂兵和部分头目血量极低时触发，魂处决敌人并全程无敌。不同武器/敌人有不同处决动画，部分处决触发QTE获得额外收益。\n盾牌\n部分敌人有蓝色护盾条，使用双手类武器能加速破盾。正面攻击持有【尖刺盾牌】的敌人会受到伤害。\n幻体\n部分敌人有【幻体】效果：攻击无法造成伤害。【幻体】类敌人需要破防后才能造成伤害。【混沌火焰】可以破除【幻体】的无敌\n混沌火焰\n部分武器可以让敌人附加【混沌火焰】（紫色火焰）。【混沌火焰】可以破除【幻体】的无敌。【混沌火焰】状态下，敌人的血量和杀气条持续减少。\n群战交互\n主武器连段清空敌人杀气槽时，若附近有其他敌人，触发针对多敌人的特殊演出，期间魂免疫攻击。某些敌人本身也有独有群战交互，部分战斗有友方单位协助。\n环境交互\n可利用不同战斗场地的环境物品进行战斗，某些头目战提供独特环境改变战斗节奏。\n取自“https://wiki.biligame.com/yingzhiren/index.php?title=战斗系统&oldid=8916”\n分类：\n影之刃零\n战斗系统\n游戏中心 |\n帐号安全\n|\n找回密码\n|\n家长监控\n| 用户协议\n本网络游戏适合年满18岁（含）以上的玩家使用\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑\n沉迷游戏伤身 合理安排时间 享受健康生活\n芜湖享游网络技术有限公司 | COPYRIGHT © 2009-2026 BILIBILI ALL\nRIGHTS RESERVED.\n皖网文[2023]1840-026号 | 皖B2-20180007-2 |\n皖ICP证：皖B2-20180007\n沪公网安备 31011002002714 号\n此页面最后编辑于2026年11月11日 (星期三) 15:30。\n此页面已被访问过385次。",
+  "links": [
+    {
+      "text": "",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "",
+      "url": "/yingzhiren/%E9%A6%96%E9%A1%B5"
+    },
+    {
+      "text": "我的消息",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "大梵哥fange",
+      "url": "https://space.bilibili.com/253562253"
+    },
+    {
+      "text": "",
+      "url": "/yingzhiren/%E9%A6%96%E9%A1%B5"
+    },
+    {
+      "text": "首页",
+      "url": "/yingzhiren/%E9%A6%96%E9%A1%B5"
+    },
+    {
+      "text": "世界观",
+      "url": "javascript:;"
+    },
+    {
+      "text": "世界观设定",
+      "url": "/yingzhiren/%E4%B8%96%E7%95%8C%E8%A7%82"
+    },
+    {
+      "text": "势力总览",
+      "url": "/yingzhiren/%E5%8A%BF%E5%8A%9B"
+    },
+    {
+      "text": "地理总览",
+      "url": "/yingzhiren/%E5%9C%B0%E7%90%86"
+    },
+    {
+      "text": "历史年表",
+      "url": "/yingzhiren/%E5%8E%86%E5%8F%B2"
+    },
+    {
+      "text": "游戏考据",
+      "url": "/yingzhiren/%E6%B8%B8%E6%88%8F%E8%80%83%E6%8D%AE"
+    },
+    {
+      "text": "所有角色",
+      "url": "/yingzhiren/%E6%89%80%E6%9C%89%E8%A7%92%E8%89%B2"
+    },
+    {
+      "text": "游戏角色",
+      "url": "javascript:;"
+    },
+    {
+      "text": "头目",
+      "url": "/yingzhiren/%E5%A4%B4%E7%9B%AE"
+    },
+    {
+      "text": "NPC",
+      "url": "/yingzhiren/NPC"
+    },
+    {
+      "text": "人形怪",
+      "url": "/yingzhiren/%E4%BA%BA%E5%BD%A2%E6%80%AA"
+    },
+    {
+      "text": "兽形怪",
+      "url": "/yingzhiren/%E5%85%BD%E5%BD%A2%E6%80%AA"
+    },
+    {
+      "text": "游戏攻略",
+      "url": "javascript:;"
+    },
+    {
+      "text": "战斗系统",
+      "url": "/yingzhiren/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "text": "难度与成就",
+      "url": "/yingzhiren/%E9%9A%BE%E5%BA%A6%E4%B8%8E%E6%88%90%E5%B0%B1"
+    },
+    {
+      "text": "收集要素",
+      "url": "/yingzhiren/%E6%94%B6%E9%9B%86%E8%A6%81%E7%B4%A0"
+    },
+    {
+      "text": "主线关卡",
+      "url": "/yingzhiren/%E4%B8%BB%E7%BA%BF%E5%85%B3%E5%8D%A1"
+    },
+    {
+      "text": "装备系统",
+      "url": "javascript:;"
+    },
+    {
+      "text": "主武器",
+      "url": "/yingzhiren/%E4%B8%BB%E6%AD%A6%E5%99%A8"
+    },
+    {
+      "text": "影之武装",
+      "url": "/yingzhiren/%E5%BD%B1%E4%B9%8B%E6%AD%A6%E8%A3%85"
+    },
+    {
+      "text": "药瓶",
+      "url": "/yingzhiren/%E8%8D%AF%E7%93%B6"
+    },
+    {
+      "text": "饰品",
+      "url": "/yingzhiren/%E9%A5%B0%E5%93%81"
+    },
+    {
+      "text": "游戏地图",
+      "url": "javascript:;"
+    },
+    {
+      "text": "总览",
+      "url": "/yingzhiren/%E6%B8%B8%E6%88%8F%E5%9C%B0%E5%9B%BE"
+    },
+    {
+      "text": "悲泣溪谷",
+      "url": "/yingzhiren/%E6%82%B2%E6%B3%A3%E6%BA%AA%E8%B0%B7"
+    },
+    {
+      "text": "血色森林",
+      "url": "/yingzhiren/%E8%A1%80%E8%89%B2%E6%A3%AE%E6%9E%97"
+    },
+    {
+      "text": "陆家村",
+      "url": "/yingzhiren/%E9%99%86%E5%AE%B6%E6%9D%91%E5%9C%B0%E5%8C%BA"
+    },
+    {
+      "text": "庞镇",
+      "url": "/yingzhiren/%E5%BA%9E%E9%95%87%E5%9C%B0%E5%8C%BA"
+    },
+    {
+      "text": "正道大营",
+      "url": "/yingzhiren/%E6%AD%A3%E9%81%93%E5%A4%A7%E8%90%A5"
+    },
+    {
+      "text": "梅谷湖",
+      "url": "/yingzhiren/%E6%A2%85%E8%B0%B7%E6%B9%96"
+    },
+    {
+      "text": "枷笼山",
+      "url": "/yingzhiren/%E6%9E%B7%E7%AC%BC%E5%B1%B1"
+    },
+    {
+      "text": "戏梦山庄",
+      "url": "/yingzhiren/%E6%88%8F%E6%A2%A6%E5%B1%B1%E5%BA%84"
+    },
+    {
+      "text": "断魂山",
+      "url": "/yingzhiren/%E6%96%AD%E9%AD%82%E5%B1%B1"
+    },
+    {
+      "text": "资源下载",
+      "url": "javascript:;"
+    },
+    {
+      "text": "MOD下载",
+      "url": "/yingzhiren/MOD%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "雨血下载",
+      "url": "/yingzhiren/%E9%9B%A8%E8%A1%80%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "存档下载",
+      "url": "/yingzhiren/%E5%AD%98%E6%A1%A3%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "工具下载",
+      "url": "/yingzhiren/%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "游戏图库",
+      "url": "/yingzhiren/%E6%B8%B8%E6%88%8F%E5%9B%BE%E5%BA%93"
+    },
+    {
+      "text": "首页",
+      "url": "/yingzhiren/%E9%A6%96%E9%A1%B5"
+    },
+    {
+      "text": "世界观",
+      "url": "javascript:;"
+    },
+    {
+      "text": "世界观设定",
+      "url": "/yingzhiren/%E4%B8%96%E7%95%8C%E8%A7%82"
+    },
+    {
+      "text": "势力总览",
+      "url": "/yingzhiren/%E5%8A%BF%E5%8A%9B"
+    },
+    {
+      "text": "地理总览",
+      "url": "/yingzhiren/%E5%9C%B0%E7%90%86"
+    },
+    {
+      "text": "历史年表",
+      "url": "/yingzhiren/%E5%8E%86%E5%8F%B2"
+    },
+    {
+      "text": "游戏考据",
+      "url": "/yingzhiren/%E6%B8%B8%E6%88%8F%E8%80%83%E6%8D%AE"
+    },
+    {
+      "text": "所有角色",
+      "url": "/yingzhiren/%E6%89%80%E6%9C%89%E8%A7%92%E8%89%B2"
+    },
+    {
+      "text": "游戏角色",
+      "url": "javascript:;"
+    },
+    {
+      "text": "头目",
+      "url": "/yingzhiren/%E5%A4%B4%E7%9B%AE"
+    },
+    {
+      "text": "NPC",
+      "url": "/yingzhiren/NPC"
+    },
+    {
+      "text": "人形怪",
+      "url": "/yingzhiren/%E4%BA%BA%E5%BD%A2%E6%80%AA"
+    },
+    {
+      "text": "兽形怪",
+      "url": "/yingzhiren/%E5%85%BD%E5%BD%A2%E6%80%AA"
+    },
+    {
+      "text": "游戏攻略",
+      "url": "javascript:;"
+    },
+    {
+      "text": "战斗系统",
+      "url": "/yingzhiren/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "text": "难度与成就",
+      "url": "/yingzhiren/%E9%9A%BE%E5%BA%A6%E4%B8%8E%E6%88%90%E5%B0%B1"
+    },
+    {
+      "text": "收集要素",
+      "url": "/yingzhiren/%E6%94%B6%E9%9B%86%E8%A6%81%E7%B4%A0"
+    },
+    {
+      "text": "主线关卡",
+      "url": "/yingzhiren/%E4%B8%BB%E7%BA%BF%E5%85%B3%E5%8D%A1"
+    },
+    {
+      "text": "装备系统",
+      "url": "javascript:;"
+    },
+    {
+      "text": "主武器",
+      "url": "/yingzhiren/%E4%B8%BB%E6%AD%A6%E5%99%A8"
+    },
+    {
+      "text": "影之武装",
+      "url": "/yingzhiren/%E5%BD%B1%E4%B9%8B%E6%AD%A6%E8%A3%85"
+    },
+    {
+      "text": "药瓶",
+      "url": "/yingzhiren/%E8%8D%AF%E7%93%B6"
+    },
+    {
+      "text": "饰品",
+      "url": "/yingzhiren/%E9%A5%B0%E5%93%81"
+    },
+    {
+      "text": "游戏地图",
+      "url": "javascript:;"
+    },
+    {
+      "text": "总览",
+      "url": "/yingzhiren/%E6%B8%B8%E6%88%8F%E5%9C%B0%E5%9B%BE"
+    },
+    {
+      "text": "悲泣溪谷",
+      "url": "/yingzhiren/%E6%82%B2%E6%B3%A3%E6%BA%AA%E8%B0%B7"
+    },
+    {
+      "text": "血色森林",
+      "url": "/yingzhiren/%E8%A1%80%E8%89%B2%E6%A3%AE%E6%9E%97"
+    },
+    {
+      "text": "陆家村",
+      "url": "/yingzhiren/%E9%99%86%E5%AE%B6%E6%9D%91%E5%9C%B0%E5%8C%BA"
+    },
+    {
+      "text": "庞镇",
+      "url": "/yingzhiren/%E5%BA%9E%E9%95%87%E5%9C%B0%E5%8C%BA"
+    },
+    {
+      "text": "正道大营",
+      "url": "/yingzhiren/%E6%AD%A3%E9%81%93%E5%A4%A7%E8%90%A5"
+    },
+    {
+      "text": "梅谷湖",
+      "url": "/yingzhiren/%E6%A2%85%E8%B0%B7%E6%B9%96"
+    },
+    {
+      "text": "枷笼山",
+      "url": "/yingzhiren/%E6%9E%B7%E7%AC%BC%E5%B1%B1"
+    },
+    {
+      "text": "戏梦山庄",
+      "url": "/yingzhiren/%E6%88%8F%E6%A2%A6%E5%B1%B1%E5%BA%84"
+    },
+    {
+      "text": "断魂山",
+      "url": "/yingzhiren/%E6%96%AD%E9%AD%82%E5%B1%B1"
+    },
+    {
+      "text": "资源下载",
+      "url": "javascript:;"
+    },
+    {
+      "text": "MOD下载",
+      "url": "/yingzhiren/MOD%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "雨血下载",
+      "url": "/yingzhiren/%E9%9B%A8%E8%A1%80%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "存档下载",
+      "url": "/yingzhiren/%E5%AD%98%E6%A1%A3%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "工具下载",
+      "url": "/yingzhiren/%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD"
+    },
+    {
+      "text": "游戏图库",
+      "url": "/yingzhiren/%E6%B8%B8%E6%88%8F%E5%9B%BE%E5%BA%93"
+    },
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "编辑帮助:目录",
+      "url": "https://wiki.biligame.com/wiki/%E5%B8%AE%E5%8A%A9:%E7%9B%AE%E5%BD%95"
+    },
+    {
+      "text": "BWIKI反馈留言板",
+      "url": "https://t.bilibili.com/373216766651091864?tab=2"
+    },
+    {
+      "text": "阅读",
+      "url": "/yingzhiren/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "text": "查看源代码",
+      "url": "javascript:;"
+    },
+    {
+      "text": "查看历史",
+      "url": "/yingzhiren/index.php?title=%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F&action=history"
+    },
+    {
+      "text": "浏览属性",
+      "url": "/yingzhiren/%E7%89%B9%E6%AE%8A:%E6%B5%8F%E8%A7%88/:%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "text": "页面贡献者",
+      "url": "/yingzhiren/%E7%89%B9%E6%AE%8A:%E8%B4%A1%E7%8C%AE%E8%80%85/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "text": "跳到导航",
+      "url": "#mw-head"
+    },
+    {
+      "text": "跳到搜索",
+      "url": "#p-search"
+    },
+    {
+      "text": "页面贡献者 :",
+      "url": "/yingzhiren/%E7%89%B9%E6%AE%8A:%E8%B4%A1%E7%8C%AE%E8%80%85/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F"
+    },
+    {
+      "text": "",
+      "url": "//space.bilibili.com/12230353/"
+    },
+    {
+      "text": "",
+      "url": "//space.bilibili.com/253562253/"
+    },
+    {
+      "text": "",
+      "url": "//space.bilibili.com/1097927383/"
+    },
+    {
+      "text": "",
+      "url": "//space.bilibili.com/572134271/"
+    },
+    {
+      "text": "1 一、战斗资源",
+      "url": "#一、战斗资源"
+    },
+    {
+      "text": "2 二、装备配置",
+      "url": "#二、装备配置"
+    },
+    {
+      "text": "3 三、基础动作",
+      "url": "#三、基础动作"
+    },
+    {
+      "text": "4 四、攻防博弈",
+      "url": "#四、攻防博弈"
+    },
+    {
+      "text": "5 五、绝技与特殊战斗",
+      "url": "#五、绝技与特殊战斗"
+    },
+    {
+      "text": "记忆之花",
+      "url": "/yingzhiren/%E8%AE%B0%E5%BF%86%E4%B9%8B%E8%8A%B1"
+    },
+    {
+      "text": "生命值",
+      "url": "/yingzhiren/%E7%94%9F%E5%91%BD%E5%80%BC"
+    },
+    {
+      "text": "杀气琥珀",
+      "url": "/yingzhiren/%E6%9D%80%E6%B0%94%E7%90%A5%E7%8F%80"
+    },
+    {
+      "text": "暗源",
+      "url": "/yingzhiren/index.php?title=%E6%9A%97%E6%BA%90&action=edit&redlink=1"
+    },
+    {
+      "text": "暗源",
+      "url": "/yingzhiren/index.php?title=%E6%9A%97%E6%BA%90&action=edit&redlink=1"
+    },
+    {
+      "text": "武器切换",
+      "url": "/yingzhiren/%E6%AD%A6%E5%99%A8%E5%88%87%E6%8D%A2"
+    },
+    {
+      "text": "能力修行",
+      "url": "/yingzhiren/%E8%83%BD%E5%8A%9B%E4%BF%AE%E8%A1%8C"
+    },
+    {
+      "text": "先声夺人",
+      "url": "/yingzhiren/%E5%85%88%E5%A3%B0%E5%A4%BA%E4%BA%BA"
+    },
+    {
+      "text": "爆弹客",
+      "url": "/yingzhiren/%E7%88%86%E5%BC%B9%E5%AE%A2"
+    },
+    {
+      "text": "鬼步",
+      "url": "/yingzhiren/index.php?title=%E9%AC%BC%E6%AD%A5&action=edit&redlink=1"
+    },
+    {
+      "text": "精纯杀气",
+      "url": "/yingzhiren/index.php?title=%E7%B2%BE%E7%BA%AF%E6%9D%80%E6%B0%94&action=edit&redlink=1"
+    },
+    {
+      "text": "追击",
+      "url": "/yingzhiren/%E8%BF%BD%E5%87%BB"
+    },
+    {
+      "text": "https://wiki.biligame.com/yingzhiren/index.php?title=战斗系统&oldid=8916",
+      "url": "https://wiki.biligame.com/yingzhiren/index.php?title=战斗系统&oldid=8916"
+    },
+    {
+      "text": "分类",
+      "url": "/yingzhiren/%E7%89%B9%E6%AE%8A:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB"
+    },
+    {
+      "text": "影之刃零",
+      "url": "/yingzhiren/index.php?title=%E5%88%86%E7%B1%BB:%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6&action=edit&redlink=1"
+    },
+    {
+      "text": "战斗系统",
+      "url": "/yingzhiren/index.php?title=%E5%88%86%E7%B1%BB:%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F&action=edit&redlink=1"
+    },
+    {
+      "text": "",
+      "url": "//www.bilibili.com"
+    },
+    {
+      "text": "游戏中心",
+      "url": "//www.biligame.com/"
+    },
+    {
+      "text": "帐号安全",
+      "url": "https://account.bilibili.com/"
+    },
+    {
+      "text": "找回密码",
+      "url": "https://account.bilibili.com/resetpwd"
+    },
+    {
+      "text": "家长监控",
+      "url": "//jiazhang.biligame.com/"
+    },
+    {
+      "text": "用户协议",
+      "url": "//yhxy.biligame.com/"
+    },
+    {
+      "text": "沪公网安备 31011002002714 号",
+      "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002002714"
+    }
+  ]
+}

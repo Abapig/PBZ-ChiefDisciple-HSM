@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>百度贴吧</title>
+    <!-- 雷达接入 -->
+    <script type="text/javascript" id="radar-script"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+    <!-- 适配部分 -->
+
+    <link rel="stylesheet" href="//tb1.bdstatic.com/??tb/mobile/wise-er-common/static/css/vendor.a6e752e4.css,tb/mobile/wise-er-common/static/css/base.6eaf27de.css" />
+
+    <script>
+    function getClientWidth() {
+        return window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+    }
+
+    function refreshRem(baseWidth) {
+        clientWidth = getClientWidth();
+        baseWidth = baseWidth || 414;
+        var rem;
+        rem = (clientWidth / baseWidth) * 100;
+        rem = clientWidth < 360 ? rem * .9 : rem;
+        rem = Math.min(rem, 150);
+        var doc = window.document.documentElement;
+        doc.style.fontSize = rem + 'px';
+    }
+
+    (function (baseWidth) {
+        var clientWidth = getClientWidth();
+        baseWidth = baseWidth || 414;
+        var win = window;
+        var doc = win.document.documentElement;
+        var dpr = win.devicePixelRatio || 1;
+
+        doc.setAttribute('data-ckdpr', Math.round(dpr));
+        doc.setAttribute('data-dpr', 1);
+        refreshRem();
+    })();
+    </script>
+<link href="//tb1.bdstatic.com/tb/mobile/wise-grow-operate/static/css/commentSeoPage.e5402225.css" rel="stylesheet"></head>
+<script>window.radar && window.radar.mark('ht');</script>
+<body>
+    <div id="app"></div>
+    <script>
+        (function () {
+            var timeouter = null;
+            window.addEventListener('resize', function () {
+                clearTimeout(timeouter),
+                timeouter = setTimeout(refreshRem, 300);
+            },
+            false); 
+            window.addEventListener('load', function () {
+                refreshRem();
+                clearTimeout(timeouter),
+                timeouter = setTimeout(refreshRem, 1000);
+            },
+            false);
+            window.addEventListener('pageshow', function (event) {
+                event.persisted && (clearTimeout(timeouter), timeouter = setTimeout(refreshRem, 300));
+            },
+            false);
+        })();
+    </script>
+
+    <script>
+        window.TB_CONFIG = null || {};
+        window.TB_CONFIG.tb_referer = document.referrer;
+    </script>
+
+    <script src="//tb1.bdstatic.com/??tb/mobile/wise-er-common/static/js/vendor.041bc209.js,tb/mobile/wise-er-common/static/js/base.63d3733c.js"></script>
+
+    <script type="text/javascript" id="radar-sdk-script"></script>
+    <script src=""></script>
+    <script src=""></script>
+<script src="//tb1.bdstatic.com/tb/mobile/wise-grow-operate/static/js/commentSeoPage.418a908f.js"></script></body>
+</html><!--21565073290633201418111119-->
+<script> var _trace_page_logid = 2156507329; </script>

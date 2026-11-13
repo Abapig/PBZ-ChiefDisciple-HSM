@@ -1,0 +1,13 @@
+{
+  "message_texts_match_source": true,
+  "message_hashes_valid": true,
+  "attachments_match_source": true,
+  "prompt_count_consistent": true,
+  "compaction_summaries_excluded": true,
+  "docx_zip_and_xml_valid": true,
+  "docx_all_message_labels_present": true,
+  "html_all_original_texts_present": true,
+  "total_messages": 78,
+  "user_messages": 17,
+  "word_visual_layout_reviewed": false
+}

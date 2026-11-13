@@ -1,0 +1,23 @@
+{
+  "nodes": 349,
+  "edges": 756,
+  "groups": 20,
+  "moves_covered": 33,
+  "inherited_edges": 220,
+  "empty_resource_bindings": 521,
+  "dangling_edges": 0,
+  "empty_guards": 0,
+  "missing_move_roots": 0,
+  "external_inputs": [
+    "B_ENTRY",
+    "I_ACTORS",
+    "I_ANIM",
+    "I_HIT",
+    "I_PARAMS"
+  ],
+  "terminal_nodes": [
+    "B_END"
+  ],
+  "canvas_width": 8500,
+  "canvas_height": 11441
+}

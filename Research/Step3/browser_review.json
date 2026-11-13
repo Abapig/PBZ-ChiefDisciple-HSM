@@ -1,0 +1,39 @@
+{
+  "engine": "Microsoft Edge headless",
+  "nodes": 349,
+  "edges": 756,
+  "groups": 20,
+  "pan_navigation_checked": [
+    "phase",
+    "events",
+    "pressure",
+    "learning",
+    "selector",
+    "movement",
+    "defense",
+    "resource",
+    "formation",
+    "support",
+    "health",
+    "m1basic",
+    "m1forms",
+    "m2fixed",
+    "m2pool",
+    "m2thread",
+    "red",
+    "duet",
+    "actors",
+    "interfaces"
+  ],
+  "search": true,
+  "details": true,
+  "inherited_wire_toggle": true,
+  "wheel_zoom": true,
+  "runtime_errors": [],
+  "preview_files": [
+    "阶段总控预览.png",
+    "连招状态与连线预览.png",
+    "变招条件详情预览.png",
+    "Boss全量分层状态机总览.png"
+  ]
+}

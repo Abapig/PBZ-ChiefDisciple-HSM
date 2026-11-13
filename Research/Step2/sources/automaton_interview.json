@@ -1,0 +1,702 @@
+{
+  "id": "automaton_interview",
+  "url": "https://automaton-media.com/articles/interviewsjp/20261009-472623/",
+  "query": null,
+  "retrieved_utc": "2026-11-11T11:35:55.513160+00:00",
+  "final_url": "https://automaton-media.com/articles/interviewsjp/20261009-472623/",
+  "text": "PS5/PC期待の大型アクション『Phantom Blade Zero』開発者いわく“土台はRPG”、腕前だけじゃなく頭も使うボス戦。ただし高難易度は「人間じみた敵AI」と対人戦級の読み合いに - AUTOMATON\nコンテンツへスキップ\n結果なし\nトップ\n最新ニュース\n話題の記事\nPC（Steamなど）\nNintendo Switch/Switch 2\nPS5/PS4\nXbox Series X|S/Xbox One\n求人\n動画\nGlobal Sites\nAUTOMATON WEST (EN)\nAUTOMATON China (中文)\nGlobal Sites\nAUTOMATON WEST (EN)\nAUTOMATON China (中文)\nトップ\n最新ニュース\n話題の記事\nPC（Steamなど）\nNintendo Switch/Switch 2\nPS5/PS4\nXbox Series X|S/Xbox One\n求人\n動画\n検索\nメニュー\n人気記事\nPCゲーム\n話題の記事\n最新ニュース\n求人\nPS5/PC期待の大型アクション『Phantom Blade Zero』開発者いわく“土台はRPG”、腕前だけじゃなく頭も使うボス戦。ただし高難易度は「人間じみた敵AI」と対人戦級の読み合いに\n10月29日に発売予定の中国発アクションゲーム『Phantom Blade Zero』。ゲームの開発理念やボスデザイン、難易度設定などについてのインタビューをお届けする\nNep333\n2026-10-09 09:00\nインタビュー\nこの記事は14分で読めます\nPCPS5\nこの記事をシェア\n10月29日に発売予定の中国発アクションゲーム『Phantom Blade Zero』は、先日グローバルメディア向けの大規模な試遊イベントを開催した。現地ではゲーム序盤の数時間を体験できたほか（該当試遊レポ）、海外メディアと共に上海にあるモーションキャプチャスタジオを訪問した（該当取材記事）。\n同イベントにて、弊誌は日本メディア向けの合同インタビューに参加し、本作のプロデューサーであるSoulframe氏（梁其偉、写真左）および音楽プロデューサーの薄彩生氏（写真右）に話を伺った。ゲームの開発理念やボスデザイン、難易度設定などについて多くの質問を投げかけた。以下にそのインタビューの詳細をお届けする。\n——ゲームを試遊して、バリエーション豊かなボスが非常に印象的でした。ボスの数は30種類以上と伺っていますが、それらの間に何か統一されたコンセプトはあるのでしょうか？\nSoulframe氏：\n実際のところ、ゲーム内のボスの数は30どころではありません。簡単に言えば、プレイヤーが使用する武器はすべてボスがドロップする仕様になっており、ゲーム内には30種類のメイン武器と20種類以上のサブ武器が存在します。そのため、少なくとも50種類以上のボスが登場することになります。彼らはすべて、本作の「カンフーパンク」というスタイルの下に統一されています。中国の武侠を起源としながらも、我々独自の革新的な要素を加えるという共通の脈絡を持っています。その上で、各ボスには差別化が図られています。例えば、体格が異なったり、使う武器が違ったりしますし、ゲーム後半になるとボスのバリエーションはさらに豊かになっていきます。プレイヤーはこれらのボスを倒すために、それぞれ異なる戦略を立てる必要があります。\n——ボスをデザインする際の大まかなプロセスについて教えてください。まずいくつかのアクションを考案し、それに合わせてボスをデザインするのでしょうか。それとも、先にボスのコンセプトを決めてから、そのボスに相応しいアクションを考えていくのでしょうか？\nSoulframe氏：\n本作のアクションの種類は非常に膨大であるため、従来の方法でボスをデザインすることはできませんでした。従来の方法とは、先にボスにいくつかの技を設定し、それに合わせてモーション素材を収録するというものです。我々のアプローチはそれとは異なりますが、かといってアクション監督に完全に丸投げしているわけでもありません。通常、我々はまず大まかな要望を出します。例えば「このボスは酒を飲み、飛剣を操り、回避アクションや投げ技を持つ」といった具合です。そして、その枠組みの中で現場のアクターやアクション監督に自由に動いてもらい、戦闘中に起こり得るさまざまなアクションを考案してもらいます。最後に開発チームがそのデータの中からボスのコンセプトに合致するものを抽出し、さらに詳細なデザインへと落とし込んでいきます。これは、曖昧な状態から徐々に輪郭をはっきりとさせていくようなプロセスです。\nクリエイティブコンサルタントのドニー・イェン氏が以前私に語ってくれたのですが、ハリウッドのアクション映画では、まず絵コンテを設計し、撮影時にはその絵コンテに沿って一つ一つの動作を厳格に演じるそうです。一方、香港のアクション映画は異なり、監督が「お前ら2人で戦え。5分間戦って、最後はAが勝ってBが負ける」とだけ指示を出し、あとは俳優たちがアドリブで実際に戦い始めます。何度も戦いを繰り返すうちに徐々に感覚を掴んでいき、最終的にそれらを繋ぎ合わせて本編を作り上げるのです。我々のやり方は実はこれに少し似ています。聞くところによると、現在ではハリウッドでもこのような「半分は事前に設計し、半分は現場の即興に任せる」という手法が徐々に採用され始めているようです。\n——ゲームに登場した「獅子舞」のボスについてですが、水をかけると弱体化することに気づきました。ゲーム内のボスには、こうした特定の弱点や隠れたギミックがすべて用意されているのでしょうか？\nSoulframe氏：\nゲーム内の多くの敵には、素早く撃破するための弱点が設定されています。これらの弱点には「強ギミック」と「弱ギミック」があります。強ギミックとは、相性の良い戦い方をしないと全くダメージを与えられないものを指します。例えば、盾を持った敵などがそれに該当します。一方、弱ギミックは特定の武器や技を使うと戦いやすくなるものの、純粋にプレイヤースキルのみでゴリ押しすることも十分可能なものを指し、大部分の敵はこの弱ギミックに分類されます。さらに、ゲーム内には「ストーリーギミック」と呼ばれるものも存在します。これは、プレイヤーがストーリーを把握し、キャラクター間の因縁を理解した上で特定の武器を使用すると、ボスの特殊なセリフが発生するというものです。これらも一種の隠し要素となっていますので、プレイする際にはぜひいろいろ探してみてください。\n——つまり、プレイヤーがどうしてもボスを倒せない時は、単にステータスを上げるのではなく、ゲームデザインとしてギミックを発見することを推奨しているわけですね？\nSoulframe氏：\nその通りです。ゲーム自体の根底にはRPGの構造があるため、ビルドの概念も存在し、特定の武器やアクセサリーの組み合わせが劇的な効果をもたらすことがあります。プレイヤーがあるボスに行き詰まった時、実は最もすべきことは腕前を磨くことではありません。私自身、年齢を重ねるにつれて素早い反応ができなくなってきていますしね（笑）ですので、我々としてはプレイヤーに対応する武器や装備の組み合わせを探ることを推奨しています。実際のところ、本作ではいつでも武器の強化をリセットしてリソースを返還できる仕様になっているため、皆さんもぜひさまざまなビルドを試行錯誤してみてください。\n——試遊の際、謎の女性のサブボスに遭遇したのですが、非常に手強かったです。こういったサブボスの強さを設計する際、開発チームはどのような点を考慮されているのでしょうか？\nSoulframe氏：\nゲームの進行中にはいくつか隠しボスが登場しますが、その女性はまさに第一章の隠しボスにあたります。これらの隠しボスは、ステータス面でメインボスより極端に強いわけではありませんが、大抵は何らかの特徴的なギミックを持っています。そのギミックを把握するまでは非常に難しく感じるかもしれませんが、一度理解してしまえば難易度は大幅に下がります。メインボスはすべてのプレイヤーが必ず戦わなければならないため、難易度設定は比較的平均的に保たれていますが、任意で挑むサブボスの難易度はかなり起伏が激しくなっています。実は第一章にはもう一体隠しボスがいるのですが、あれは初期段階で挑むべき相手ではありません。\nサブボスはゲーム全体においてかなりの比重を占めており、ドニー・イェン氏が演じるボスも厳密に言えばサブキャラクターの扱いです。サブクエストは本作において重要なコンテンツであり、ストーリーや世界観、さらには「メインストーリーの結末」にまで影響を与えることもありますので、プレイする際にはぜひ隅々まで探索してみてください。また、サブボスは往々にして強力な武器をドロップします。あの女性サブボスの持つ刀を手に入れられれば、その後のしばらくの期間は非常に快適にゲームを進められるでしょう。\n——ということは、本作にはマルチエンディングが用意されているのでしょうか？\nSoulframe氏：\nはい、その通りです。\n——先ほどお話しに出た隠しボスの武器を手に入れたのですが、刀を振ると彼岸花のようなエフェクトが発生しました。こうした華麗なエフェクトは、本作のテーマである「カンフーパンク」とどのように結びついているのでしょうか？\nSoulframe氏：\nカンフーパンクを表現する手法とは、すなわち「カンフー」に「ファンタジー要素」を加えることです。そして、そのファンタジー要素には「カラクリ」「武学」「奇術」が含まれます。カラクリは機械的なもの、武学は立ち回り、奇術は少しオカルト的な要素に寄ったものを指します。本作の世界観にはさらに「裏武林」という設定もあり、これは神秘主義的なものを帯びた要素を含んでいます。彼岸花のエフェクトは武学と奇術の融合であり、一方で獅子舞は武学とカラクリの融合と言えます。これらはすべて一つの大きな枠組みの中に統一されています。ゲームのテイストとしては、刀剣などを用いた硬派な武術による「ハードコア」なスタイルと、極端なファンタジーである「仙侠」の間に位置しています。もちろん、そのど真ん中というわけではなく、両者のグラデーションの中で我々独自の立ち位置を見つけ出したという形です。\n——現在、本作は世界中で大きな注目を集めており、最終的にはコアゲーマーだけでなく、アクションゲームがあまり得意ではないプレイヤーも多く遊ぶことになると思います。ゲーム内には「入門者」という低難易度モードが用意されていましたが、この難易度は具体的にどの程度簡単になるのでしょうか。また、どのような考えで設計されたのでしょうか？\nSoulframe氏：\n「入門者」の難易度は、より高い難易度と比較して、実はステータス面での変化は皆さんが想像するほど大きくありません。その遊びやすさは主に「敵AIの攻撃意欲」と「プレイヤーの行動に対する敵の反応速度」に表れています。簡単に言えば、見得を切るような武侠映画に近い感じで、敵はプレイヤーの周りを旋回しますが、攻撃はそれほど積極的ではありません。我々はこの「入門者」に対して入念に調整を行いました。一般のプレイヤーでも気軽にクリアできるようにする一方で、決して「退屈だ」と感じさせてはならないからです。例えば、敵に近づいて一太刀で瞬殺できてしまうようでは、全く面白くありません。そのため、「入門者」であっても、プレイヤーはボスとしっかりと攻防の駆け引きを交わす必要があり、スタイリッシュなコンボやフィニッシュアクションを決めることができます。\n我々がこの難易度を紹介する際に「誰もが自分をカンフーマスターだと感じられるようにする」と述べている通りです。つまり、この難易度の設計理念は、ゲームとしての面白さを保ちつつ難易度を下げることにあります。テクニックへの要求は低減されていますが、その分見栄えのする魅せプレイがしやすくなっています。\n——対照的に、最高難易度である「66日」についてですが、敵がプレイヤーの攻撃パターンを学習すると伺いました。この難易度において、敵の行動AIは他の難易度と具体的にどう違うのでしょうか。また、それはどのように実装されているのでしょうか？\nSoulframe氏：\nまず「66日」と「逆天者」の難易度は全く同じです。「66日」には「死亡回数が66回まで」という制限が追加されているだけです。\n我々がこの「逆天者」の難易度を制作する際のコンセプトは、画面の向こうにいる生身の人間とPvP対戦をしているとしたら、相手はどう考え、どう動くかを想定することでした。例えば、フェイントを使ってプレイヤーに技を振らせようとしたり、コンボを半分打ったところで急に止まり、プレイヤーの反応をうかがってから追撃を仕掛けたりしてきます。従来のアクションゲームにおける高難易度は、単なるステータスの底上げになりがちで、上級者にとってはやはり物足りなさを感じる部分があり、一戦一戦展開が変わる対戦ゲームや格闘ゲームとはどこか異なっていました。我々は、ほんの少しでもいいから、こうした対人戦のような感覚を表現したかったのです。\nしかし、だからといって別の極端な方向へ走るわけにもいきません。極限状態になればコンピューターがプレイヤーの操作入力を見透かすようになり、常にプレイヤーの先を行くことになってしまい、絶対に勝てなくなってしまいますからね。そのため、相対的に合理的な範囲に制御し、「このAIは少し賢いな」と感じさせつつも、全く手が出ないという理不尽さにはならないよう調整しています。実際のところ、制作において「入力読み」は一切使用していませんので、その点はご安心ください。\n——その「66日」難易度に関してですが、一度も死なずにクリアすることは可能なのでしょうか？ 開発チーム内にそれができる人はいるのでしょうか？\nSoulframe氏：\n現状、開発チーム内でもノーデスでクリアできた者は一人もいません。なぜなら、この難易度では敵のAIが動的に変化し、ボスはプレイヤーの行動に応じて臨機応変に対処してくるため、固定のパターンが存在しないからです。プレイするたびにボスの行動は多少なりとも変化するため、純粋に敵の行動パターンを暗記するだけで全ボスのノーダメージ撃破を実現することは不可能です。しかし、理論上は可能です。世のゲーマーたちの中には必ずとてつもない猛者がいると信じていますので、ゲームが発売された後、誰かがこの偉業を成し遂げてくれることを期待しています。\n——ゲームの音楽についてですが、多くの人はもっと伝統的な中国風のBGMを予想していたかもしれません。しかし、実際にプレイしてみると、ゲーム内には現代感に溢れる楽曲が多く、中にはメタルやロックのようなテイストのものすらありました。なぜこのような音楽の方向性を採用されたのでしょうか？\n薄彩生氏：\n実は30〜40年前の武侠映画を注意深く観てみると、当時の最新トレンドの曲調を取り入れ、中国の伝統的なスタイルとエレクトロニック・ミュージックを組み合わせた劇伴が使われていることが分かります。ですから、私は単に先人たちから学び、その伝統を受け継いでいるに過ぎません。我々の「カンフーパンク」にせよ、武侠映画にせよ、常に進化を続けているものであり、音楽もその歩調に合わせるべきだと考えています。実際、『Rainblood』でSoulframeと協力し始めた当初から、音楽のスタイルは常にトレンドの最先端であるべきだという方針を確立していました。ですので、今回の『Phantom Blade Zero』は、私がこの18年間追求し続けてきたトレンドの最先端の集大成とも言える作品です。今回は琵琶や二胡といった伝統楽器のトップ奏者たちとも協力し、どうすれば全く新しい聴覚体験をもたらすことができるか、共に構想を練り上げました。というのも、今の時代、映画やテレビ、ゲームを問わず、音楽には一種の「標準的な正解」ができつつあります。しかし、我々はあえてその逆を行き、限界を突破したいと考えました。そのため、今回の音楽には長年にわたる武侠音楽の伝承と、私個人の探求心が込められています。\n——2年前のデモ版をプレイしたことがあるのですが、当時は敵がリスポーンし、ボスだけでなく雑魚敵も非常に強力でした。今回の試遊では当時とは全く違う印象を受けましたが、なぜこのようなスタイルの変化が生じたのでしょうか？\nSoulframe氏：\nこれまで我々が展示してきたデモ版は戦闘にフォーカスしていたため、本作を伝統的なアクションゲームだと思われた方もいらっしゃるかもしれません。しかし実際には、ゲーム全体の構造はピラミッドのような形をしています。その底辺にはRPG寄りの要素があり、色濃いストーリー性や、豊富な探索要素、そしてサブクエストが用意されています。そしてピラミッドの中間層には、複雑なレベルデザインやマップ構造が存在します。ハイスピードで爽快な戦闘は、実はこのピラミッドの頂点に位置する部分であり、水面に出した氷山の一角のようなものなのです。したがって、『Phantom Blade Zero』は従来のアクションゲームとは一線を画しているかもしれません。本作は多くのゲームプレイ要素を有機的に融合させ、RPG的な探索と、高速かつスリリングな剣戟アクションを組み合わせることで、こうした新しいプレイフィールを作り上げています。\n現在の仕様で敵がリスポーンしなくなった理由についてですが、我々はプレイヤーがゲーム内で過ごす一分一秒を価値あるものにしたいと考えており、素材稼ぎのためにすでにクリアしたコンテンツを反復プレイしてほしくないからです。開発チームは本作のボリュームと品質に強い自信を持っており、プレイヤーには進行度を進めること、ストーリーを楽しむこと、そして世界を探索することに集中してもらいたいと願っています。プレイヤーが武器の強化リソースを必要とした際、我々は彼らにマップ上の新しいエリアを探索し、繰り返しの作業ではない新鮮な体験をしてほしいのです。もちろん、これは同時に、マップ全体に存在するリソースは有限であるということも意味しています。\n——ゲーム内でファストトラベルの鈴の近くに行くと、赤い糸によるナビゲーションが表示されますね。非常に自然で分かりやすいデザインだと感じました。ゲーム全体としての導線や遊びやすさについては、どのように設計されているのでしょうか？\nSoulframe氏：\n実のところ、かつての中国はモバイルゲーム大国と言える状況でしたが、『黒神話：悟空』の登場を皮切りに、ここ数年でシングルプレイ向けコンシューマーゲームのプレイヤーが徐々に増加してきました。古参のハードコアゲーマーにはお馴染みのデザインであっても、こうした新規のライトゲーマーにとっては馴染みが薄い場合が多々あります。そのため、これらのデザインの本来の目的は、誰もが良いゲーム体験を得られるようにすることです。中国に限らず、アクセシビリティに関しては世界中のプレイヤーから需要があることがわかっています。そこで、我々は現代のライトゲーマーに対して、シンプルで分かりやすい手段で情報を伝える必要がありました。しかし、単に無機質なUIで誘導することは避けたかったため、芸術的な表現を取り入れることにしたのです。「赤い糸」はプレイヤーを分かりやすく導く機能を持つだけでなく、ゲームのIPそのものの視覚的なシンボルでもあり、「運命に縛り付けられた人間」というテーマを表現しています。つまり、機能性と芸術的な表現を完璧に融合させたデザインなのです。\n——今回は戦闘に加えて探索パートもプレイさせていただき、小さな集落のようなものを見かけました。ゲーム内にはより大規模な都市も登場するのでしょうか？ もしある場合、そこでは何か特別なゲームプレイが用意されているのでしょうか？\nSoulframe氏：\nネタバレにならない範囲でお答えしますと、ゲーム内にはNPCが集まる小規模な集落がいくつか存在しますが、オープンワールドゲームにあるような、大勢の人々が行き交う巨大都市はありません。全体として、ゲームの舞台の大部分は依然として危険に満ちた探索エリアです。しかし、何も存在しない荒涼とした世界と比較すれば、生身の人間が生活している場所がいくつか点在しているため、この点に関しても、我々は二つの極端なスタイルの中間地点に立っていると言えます。\n——ありがとうございました。\n『Phantom Blade Zero』はPS5およびPC（Steam/Epic Gamesストア）向けに、日本語対応で10月29日に発売予定だ。\n関連記事\nPS5/PC注目の大作『Phantom Blade Zero』、まだ発売前なのに「もう100万本以上売れてそう」との調査レポート。60％以上が中国の売上、予約だけでヒット\nカンフーパンク剣戟アクション『Phantom Blade Zero』来年9月9日発売へ。“余命わずか66日”の剣客が駆ける、血と雨降る苛烈な武林\nPS5/PC注目の大型新作『Phantom Blade Zero』のモーキャプ、もはや武術道場だった。ドニー・イェンも参加する本気カンフーアクションゲームの裏側\nこの記事にはアフィリエイトリンクが含まれる場合があります。\nこの記事をシェア\nNep333\nAUTOMATON中国語版編集長。\n執筆記事一覧を見る\n24件\nPR\n人気記事ランキング\n本日\n週間\n月間\n『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理\nAMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる\n『ゼルダの伝説 時のオカリナ』フルリメイク版、「平均クリア時間が原作より10時間以上短い」と話題に。時を超え、ハイラル救済高速化\n『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、ドラクエらしい基本プレイ無料ゲーム\nNVIDIAの「GeForce RTX 50」グラボ、価格高騰止まらず“発売時の倍近く”に。「RTX 5070 Ti」は25万円級ぞろぞろ、昔なら5080が買える\nゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため\n『メダロット』初期8作品入り『メダロット クラシックス プラス』Steam向けに発表。オンライン対戦・交換にも対応、人気シリーズがSteam初進出\n平成レトロ団地ゲーム『Danchi Days』開発者が「想定の3分の1しか売れてない」と悲痛な告白。“カワイイけど重い“ゲームの難しさ、数字への過信など自ら徹底分析\n広さ“『GTA5』の約9倍”オープンワールド鳩シム『COO』無料公開。トロントの街丸ごと再現巨大マップで、鳩が暗躍する\n『ゼルダの伝説 時のオカリナ』リメイク版で、モリブリンの「立派すぎる尻」に熱い注目。決意の丸出しバキバキ美尻\nもっと見る\n『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理\n『ファイナルファンタジーVII リメイク』『リバース』どっちも「986円」でセール中、ぶっちぎりの過去最安値に。最終作に備えるチャンス\n『The Elder Scrolls VI: Sentinel』正式発表。『スカイリム』の5年後の世界\nロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブームに。世界救えるか心配\n『ドラゴンクエストRPG　魔界樹と導かれし島』突然発表、スマホ向け新作。まだ謎だらけ、明日20時に詳細公開へ\nNintendo Switch 2/Switch向けセールに連日大量追加、今日はたっぷり約630本。『ドラゴンクエストVII』リメイク版や『ディズニー エピックミッキー』が最安値級、『REANIMAL』も最安値更新\nNintendo Switch 2/Switch向けセールに約370本どどんと追加。『FF7 リメイク』と『リバース』が激安、『龍が如く 極３』最安更新、他にも『空の軌跡 the 1st』など大作いっぱいお安い\n500日以上監禁されていた少女、『Among Us』がきっかけとなり救助される。オンラインゲームが誘拐事件解決の糸口に\n『Slay the Spire 2』で“もっとも完璧なカードは「強打」だ”と開発者が断言。弱くはないし強くもない、“パッとしない”最高傑作\nAMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる\nもっと見る\n“統計に基づくリアル人生”シミュレーター『80億分の1』大流行中。生まれはガチャで生き方は自分次第、生々しい人生見守りブーム\nとあるゲーム開発者、「キャラの走り方が変」と言われ調整する、今度は「変えないで」派が優勢になり楽しげな議論白熱。個性か、自然さか\n『テイルズ オブ デスティニー』、約30年越しに「リリスを正式に仲間にする方法」が新発見される。老舗攻略ファンサイトが急に報告、盛り上がる\n『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理\n話題の“リアル人生”シミュレーターの日本特化版『1.2億分の1』さっそく出現。大正から未来まで、戦争も東京オリンピックも乗り越える、日本確定人生ガチャ\nなんでもやれる『マインクラフト』を1600時間分学んだAIは、「別のゲームも上手くなるのか」研究。上手くならない\nSteamにて7年前のゲームに突如「同接17万人」押し寄せる。急にどうして\n『ファイナルファンタジーVII リメイク』『リバース』どっちも「986円」でセール中、ぶっちぎりの過去最安値に。最終作に備えるチャンス\nゲームの“どう見ても通れる障害物”選手権が盛り上がる。とにかく絶対通さない、へなちょこ鉄壁バリケード\n因習生活シム『ほの暮しの庭』、開発目標の「3倍以上」売れていた。開発は十数名、開発期間は2年、それでいてボリューム満点、“やりきった”ヒット作の裏側を開発者に訊く\nもっと見る\nPR\n最新記事\n「生徒vs教師」の非対称マルチ『Worst Class Ever』、Steam同接3万人超え。同級生に紛れてイタズラ祭り、先生泣かせの極み\n『アークナイツ：エンドフィールド』の“キャラバランスの良さ”が今注目を浴びる。みんな違ってみんな強キャラ\n『ダークソウル2』『ダークソウル3』全機種で停止していたサーバー、無事復活。12日ぶりに\n『カオスゼロナイトメア』最新アプデで「戦闘倍速」などの便利機能たくさん実装。装備のステータス厳選ハードル低下など、育成さらに捗る\nリアルサッカー監督シム『Football Manager 27』いきなりSteam同接7万人の人気爆発。不評だったUI大刷新で、評判もめっちゃ良い\n『ゼルダの伝説 時のオカリナ』リメイク、4日で売上520万本突破。Nintendo Switch 2作品で最速ペース\n『英雄伝説 界の軌跡』続編、決算資料でぬるっと発表。謎残しまくった物語、ついに完結へ\n『ネタバレが激しすぎるＲＰＧ』など“すぎる”ＲＰＧシリーズ最新作『気のせいすぎるＲＰＧ』が無料公開。今回も名作な気がする\n『マインクラフト』新スナップショットで、エンダードラゴンの挙動が“約8年前”に戻る。あの突進も復活、RTAでおなじみ“ワンターンキル”は封印か\n『ゼルダの伝説 時のオカリナ』リメイク版にて、「リンクの上目遣い」にみんな釘付け。“ちびっ子おつかいリンク”、ネットミーム化\nPR\nAUTOMATONは株式会社アクティブゲーミングメディアによって運営されています。\nAbout\nContact\n広告出稿について\nプライバシーポリシー\n利用規約\n© 2026 AUTOMATON. ALL RIGHTS RESERVED.",
+  "links": [
+    {
+      "text": "コンテンツへスキップ",
+      "url": "#main"
+    },
+    {
+      "text": "トップ",
+      "url": "https://automaton-media.com/"
+    },
+    {
+      "text": "最新ニュース",
+      "url": "https://automaton-media.com/latest-news/"
+    },
+    {
+      "text": "話題の記事",
+      "url": "https://automaton-media.com/headlines/"
+    },
+    {
+      "text": "PC（Steamなど）",
+      "url": "https://automaton-media.com/pc-steam-epic-games-store-gog/"
+    },
+    {
+      "text": "Nintendo Switch/Switch 2",
+      "url": "https://automaton-media.com/nintendo-switch/"
+    },
+    {
+      "text": "PS5/PS4",
+      "url": "https://automaton-media.com/playstation/"
+    },
+    {
+      "text": "Xbox Series X|S/Xbox One",
+      "url": "https://automaton-media.com/xbox-one-xbox-series-xs/"
+    },
+    {
+      "text": "求人",
+      "url": "https://automaton-media.com/joblisting/"
+    },
+    {
+      "text": "動画",
+      "url": "https://automaton-media.com/videos-category/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCabvYnvuUUbbGUrxkaFRgSA"
+    },
+    {
+      "text": "",
+      "url": "https://www.tiktok.com/@automatonjapan"
+    },
+    {
+      "text": "",
+      "url": "https://bsky.app/profile/automaton-media.com"
+    },
+    {
+      "text": "",
+      "url": "https://x.com/AUTOMATONJapan"
+    },
+    {
+      "text": "",
+      "url": "https://mstdn.jp/@AUTOMATONJapan"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/automaton.jp/"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/automatonjapanig/"
+    },
+    {
+      "text": "AUTOMATON WEST (EN)",
+      "url": "https://automaton-media.com/en/"
+    },
+    {
+      "text": "AUTOMATON China (中文)",
+      "url": "https://automaton-china.com/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/"
+    },
+    {
+      "text": "AUTOMATON WEST (EN)",
+      "url": "https://automaton-media.com/en/"
+    },
+    {
+      "text": "AUTOMATON China (中文)",
+      "url": "https://automaton-china.com/"
+    },
+    {
+      "text": "トップ",
+      "url": "https://automaton-media.com/"
+    },
+    {
+      "text": "最新ニュース",
+      "url": "https://automaton-media.com/latest-news/"
+    },
+    {
+      "text": "話題の記事",
+      "url": "https://automaton-media.com/headlines/"
+    },
+    {
+      "text": "PC（Steamなど）",
+      "url": "https://automaton-media.com/pc-steam-epic-games-store-gog/"
+    },
+    {
+      "text": "Nintendo Switch/Switch 2",
+      "url": "https://automaton-media.com/nintendo-switch/"
+    },
+    {
+      "text": "PS5/PS4",
+      "url": "https://automaton-media.com/playstation/"
+    },
+    {
+      "text": "Xbox Series X|S/Xbox One",
+      "url": "https://automaton-media.com/xbox-one-xbox-series-xs/"
+    },
+    {
+      "text": "求人",
+      "url": "https://automaton-media.com/joblisting/"
+    },
+    {
+      "text": "動画",
+      "url": "https://automaton-media.com/videos-category/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/"
+    },
+    {
+      "text": "人気記事",
+      "url": "https://automaton-media.com/ranking/"
+    },
+    {
+      "text": "PCゲーム",
+      "url": "https://automaton-media.com/pc-steam-epic-games-store-gog/"
+    },
+    {
+      "text": "話題の記事",
+      "url": "https://automaton-media.com/headlines/"
+    },
+    {
+      "text": "最新ニュース",
+      "url": "https://automaton-media.com/latest-news/"
+    },
+    {
+      "text": "求人",
+      "url": "https://automaton-media.com/joblisting/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/author/nep333/"
+    },
+    {
+      "text": "Nep333",
+      "url": "https://automaton-media.com/author/nep333/"
+    },
+    {
+      "text": "インタビュー",
+      "url": "https://automaton-media.com/articles/interviewsjp/"
+    },
+    {
+      "text": "PC",
+      "url": "https://automaton-media.com/tag/pc/"
+    },
+    {
+      "text": "PS5",
+      "url": "https://automaton-media.com/tag/ps5/"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/hatena?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/share"
+    },
+    {
+      "text": "該当試遊レポ",
+      "url": "https://automaton-media.com/articles/reportjp/20261009-472617/"
+    },
+    {
+      "text": "該当取材記事",
+      "url": "https://automaton-media.com/articles/reportjp/20261009-472629/"
+    },
+    {
+      "text": "PS5",
+      "url": "https://store.playstation.com/ja-jp/concept/10017620"
+    },
+    {
+      "text": "Steam",
+      "url": "https://store.steampowered.com/agecheck/app/4115450/?l=japanese&utm_source=automaton-media.com&utm_medium=referral&utm_campaign=article-472623"
+    },
+    {
+      "text": "Epic Gamesストア",
+      "url": "https://store.epicgames.com/p/phantom-blade-zero-e78a35?lang=ja"
+    },
+    {
+      "text": "PS5/PC注目の大作『Phantom Blade Zero』、まだ発売前なのに「もう100万本以上売れてそう」との調査レポート。60％以上が中国の売上、予約だけでヒット",
+      "url": "https://automaton-media.com/articles/newsjp/20261028-476178/"
+    },
+    {
+      "text": "カンフーパンク剣戟アクション『Phantom Blade Zero』来年9月9日発売へ。“余命わずか66日”の剣客が駆ける、血と雨降る苛烈な武林",
+      "url": "https://automaton-media.com/articles/newsjp/phantom-blade-zero-20251212-370700/"
+    },
+    {
+      "text": "PS5/PC注目の大型新作『Phantom Blade Zero』のモーキャプ、もはや武術道場だった。ドニー・イェンも参加する本気カンフーアクションゲームの裏側",
+      "url": "https://automaton-media.com/articles/reportjp/20261009-472629/"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/hatena?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fautomaton-media.com%2Farticles%2Finterviewsjp%2F20261009-472623%2F&linkname=PS5%2FPC%E6%9C%9F%E5%BE%85%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8EPhantom%20Blade%20Zero%E3%80%8F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%84%E3%82%8F%E3%81%8F%E2%80%9C%E5%9C%9F%E5%8F%B0%E3%81%AFRPG%E2%80%9D%E3%80%81%E8%85%95%E5%89%8D%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E9%A0%AD%E3%82%82%E4%BD%BF%E3%81%86%E3%83%9C%E3%82%B9%E6%88%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E9%AB%98%E9%9B%A3%E6%98%93%E5%BA%A6%E3%81%AF%E3%80%8C%E4%BA%BA%E9%96%93%E3%81%98%E3%81%BF%E3%81%9F%E6%95%B5AI%E3%80%8D%E3%81%A8%E5%AF%BE%E4%BA%BA%E6%88%A6%E7%B4%9A%E3%81%AE%E8%AA%AD%E3%81%BF%E5%90%88%E3%81%84%E3%81%AB"
+    },
+    {
+      "text": "",
+      "url": "https://www.addtoany.com/share"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/author/nep333/"
+    },
+    {
+      "text": "Nep333",
+      "url": "https://automaton-media.com/author/nep333/"
+    },
+    {
+      "text": "執筆記事一覧を見る\n                        24件",
+      "url": "https://automaton-media.com/author/nep333/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478385/"
+    },
+    {
+      "text": "AMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478385/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478465/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』フルリメイク版、「平均クリア時間が原作より10時間以上短い」と話題に。時を超え、ハイラル救済高速化",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478465/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478473/"
+    },
+    {
+      "text": "『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、ドラクエらしい基本プレイ無料ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478473/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478291/"
+    },
+    {
+      "text": "NVIDIAの「GeForce RTX 50」グラボ、価格高騰止まらず“発売時の倍近く”に。「RTX 5070 Ti」は25万円級ぞろぞろ、昔なら5080が買える",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478291/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478520/"
+    },
+    {
+      "text": "ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セルフ直接日本語化”の未来が見えたため",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478520/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478360/"
+    },
+    {
+      "text": "『メダロット』初期8作品入り『メダロット クラシックス プラス』Steam向けに発表。オンライン対戦・交換にも対応、人気シリーズがSteam初進出",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478360/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478299/"
+    },
+    {
+      "text": "平成レトロ団地ゲーム『Danchi Days』開発者が「想定の3分の1しか売れてない」と悲痛な告白。“カワイイけど重い“ゲームの難しさ、数字への過信など自ら徹底分析",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478299/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478330/"
+    },
+    {
+      "text": "広さ“『GTA5』の約9倍”オープンワールド鳩シム『COO』無料公開。トロントの街丸ごと再現巨大マップで、鳩が暗躍する",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478330/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478310/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』リメイク版で、モリブリンの「立派すぎる尻」に熱い注目。決意の丸出しバキバキ美尻",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478310/"
+    },
+    {
+      "text": "もっと見る",
+      "url": "https://automaton-media.com/ranking/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477316/"
+    },
+    {
+      "text": "『ファイナルファンタジーVII リメイク』『リバース』どっちも「986円」でセール中、ぶっちぎりの過去最安値に。最終作に備えるチャンス",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477316/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/2026tes-477262/"
+    },
+    {
+      "text": "『The Elder Scrolls VI: Sentinel』正式発表。『スカイリム』の5年後の世界",
+      "url": "https://automaton-media.com/articles/newsjp/2026tes-477262/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261105-477811/"
+    },
+    {
+      "text": "ロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブームに。世界救えるか心配",
+      "url": "https://automaton-media.com/articles/newsjp/20261105-477811/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478205/"
+    },
+    {
+      "text": "『ドラゴンクエストRPG　魔界樹と導かれし島』突然発表、スマホ向け新作。まだ謎だらけ、明日20時に詳細公開へ",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478205/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261105-477665/"
+    },
+    {
+      "text": "Nintendo Switch 2/Switch向けセールに連日大量追加、今日はたっぷり約630本。『ドラゴンクエストVII』リメイク版や『ディズニー エピックミッキー』が最安値級、『REANIMAL』も最安値更新",
+      "url": "https://automaton-media.com/articles/newsjp/20261105-477665/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477339/"
+    },
+    {
+      "text": "Nintendo Switch 2/Switch向けセールに約370本どどんと追加。『FF7 リメイク』と『リバース』が激安、『龍が如く 極３』最安更新、他にも『空の軌跡 the 1st』など大作いっぱいお安い",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477339/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261107-477955/"
+    },
+    {
+      "text": "500日以上監禁されていた少女、『Among Us』がきっかけとなり救助される。オンラインゲームが誘拐事件解決の糸口に",
+      "url": "https://automaton-media.com/articles/newsjp/20261107-477955/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477426/"
+    },
+    {
+      "text": "『Slay the Spire 2』で“もっとも完璧なカードは「強打」だ”と開発者が断言。弱くはないし強くもない、“パッとしない”最高傑作",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477426/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478385/"
+    },
+    {
+      "text": "AMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478385/"
+    },
+    {
+      "text": "もっと見る",
+      "url": "https://automaton-media.com/ranking/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261013-473180/"
+    },
+    {
+      "text": "“統計に基づくリアル人生”シミュレーター『80億分の1』大流行中。生まれはガチャで生き方は自分次第、生々しい人生見守りブーム",
+      "url": "https://automaton-media.com/articles/newsjp/20261013-473180/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261021-474665/"
+    },
+    {
+      "text": "とあるゲーム開発者、「キャラの走り方が変」と言われ調整する、今度は「変えないで」派が優勢になり楽しげな議論白熱。個性か、自然さか",
+      "url": "https://automaton-media.com/articles/newsjp/20261021-474665/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477052/"
+    },
+    {
+      "text": "『テイルズ オブ デスティニー』、約30年越しに「リリスを正式に仲間にする方法」が新発見される。老舗攻略ファンサイトが急に報告、盛り上がる",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477052/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理",
+      "url": "https://automaton-media.com/articles/newsjp/20261109-478221/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261015-473497/"
+    },
+    {
+      "text": "話題の“リアル人生”シミュレーターの日本特化版『1.2億分の1』さっそく出現。大正から未来まで、戦争も東京オリンピックも乗り越える、日本確定人生ガチャ",
+      "url": "https://automaton-media.com/articles/newsjp/20261015-473497/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476818/"
+    },
+    {
+      "text": "なんでもやれる『マインクラフト』を1600時間分学んだAIは、「別のゲームも上手くなるのか」研究。上手くならない",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476818/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/ubermosh-omega-20261013-473097/"
+    },
+    {
+      "text": "Steamにて7年前のゲームに突如「同接17万人」押し寄せる。急にどうして",
+      "url": "https://automaton-media.com/articles/newsjp/ubermosh-omega-20261013-473097/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477316/"
+    },
+    {
+      "text": "『ファイナルファンタジーVII リメイク』『リバース』どっちも「986円」でセール中、ぶっちぎりの過去最安値に。最終作に備えるチャンス",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477316/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261021-474585/"
+    },
+    {
+      "text": "ゲームの“どう見ても通れる障害物”選手権が盛り上がる。とにかく絶対通さない、へなちょこ鉄壁バリケード",
+      "url": "https://automaton-media.com/articles/newsjp/20261021-474585/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/interviewsjp/honogura-20261026-475678/"
+    },
+    {
+      "text": "因習生活シム『ほの暮しの庭』、開発目標の「3倍以上」売れていた。開発は十数名、開発期間は2年、それでいてボリューム満点、“やりきった”ヒット作の裏側を開発者に訊く",
+      "url": "https://automaton-media.com/articles/interviewsjp/honogura-20261026-475678/"
+    },
+    {
+      "text": "もっと見る",
+      "url": "https://automaton-media.com/ranking/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478713/"
+    },
+    {
+      "text": "「生徒vs教師」の非対称マルチ『Worst Class Ever』、Steam同接3万人超え。同級生に紛れてイタズラ祭り、先生泣かせの極み",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478713/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478699/"
+    },
+    {
+      "text": "『アークナイツ：エンドフィールド』の“キャラバランスの良さ”が今注目を浴びる。みんな違ってみんな強キャラ",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478699/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478680/"
+    },
+    {
+      "text": "『ダークソウル2』『ダークソウル3』全機種で停止していたサーバー、無事復活。12日ぶりに",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478680/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478677/"
+    },
+    {
+      "text": "『カオスゼロナイトメア』最新アプデで「戦闘倍速」などの便利機能たくさん実装。装備のステータス厳選ハードル低下など、育成さらに捗る",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478677/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478638/"
+    },
+    {
+      "text": "リアルサッカー監督シム『Football Manager 27』いきなりSteam同接7万人の人気爆発。不評だったUI大刷新で、評判もめっちゃ良い",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478638/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478662/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』リメイク、4日で売上520万本突破。Nintendo Switch 2作品で最速ペース",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478662/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478654/"
+    },
+    {
+      "text": "『英雄伝説 界の軌跡』続編、決算資料でぬるっと発表。謎残しまくった物語、ついに完結へ",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478654/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478632/"
+    },
+    {
+      "text": "『ネタバレが激しすぎるＲＰＧ』など“すぎる”ＲＰＧシリーズ最新作『気のせいすぎるＲＰＧ』が無料公開。今回も名作な気がする",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478632/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478622/"
+    },
+    {
+      "text": "『マインクラフト』新スナップショットで、エンダードラゴンの挙動が“約8年前”に戻る。あの突進も復活、RTAでおなじみ“ワンターンキル”は封印か",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478622/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478615/"
+    },
+    {
+      "text": "『ゼルダの伝説 時のオカリナ』リメイク版にて、「リンクの上目遣い」にみんな釘付け。“ちびっ子おつかいリンク”、ネットミーム化",
+      "url": "https://automaton-media.com/articles/newsjp/20261111-478615/"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/"
+    },
+    {
+      "text": "株式会社アクティブゲーミングメディア",
+      "url": "https://www.activegamingmedia.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCabvYnvuUUbbGUrxkaFRgSA"
+    },
+    {
+      "text": "",
+      "url": "https://bsky.app/profile/automaton-media.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/automatonjapanig/"
+    },
+    {
+      "text": "",
+      "url": "https://x.com/AUTOMATONJapan"
+    },
+    {
+      "text": "",
+      "url": "https://www.threads.com/@automatonjapanig"
+    },
+    {
+      "text": "",
+      "url": "https://mstdn.jp/@AUTOMATONJapan"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/automaton.jp/"
+    },
+    {
+      "text": "",
+      "url": "https://www.tiktok.com/@automatonjapan"
+    },
+    {
+      "text": "",
+      "url": "https://automaton-media.com/feed/"
+    },
+    {
+      "text": "About",
+      "url": "https://automaton-media.com/about/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://automaton-media.com/contact/"
+    },
+    {
+      "text": "広告出稿について",
+      "url": "https://automaton-media.com/advertise/"
+    },
+    {
+      "text": "プライバシーポリシー",
+      "url": "https://automaton-media.com/privacy-policy/"
+    },
+    {
+      "text": "利用規約",
+      "url": "https://automaton-media.com/terms-of-use/"
+    },
+    {
+      "text": "",
+      "url": "#main-container"
+    }
+  ]
+}

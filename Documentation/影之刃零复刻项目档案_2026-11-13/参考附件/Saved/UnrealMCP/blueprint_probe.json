@@ -1,0 +1,361 @@
+{
+  "success": true,
+  "asset": "/Game/MCPDiagnostics/BP_MCP_Probe",
+  "create_blueprint": true,
+  "add_variable": true,
+  "add_nodes_and_connect_pins": true,
+  "set_pin_literal": true,
+  "compile": true,
+  "execute_generated_function": {
+    "input": 321.0,
+    "returned": 321,
+    "member_value": 321
+  },
+  "saved": true,
+  "readback": {
+    "asset": "/Game/MCPDiagnostics/BP_MCP_Probe.BP_MCP_Probe",
+    "variables": [
+      "ProbeHealth"
+    ],
+    "graphs": [
+      {
+        "name": "UserConstructionScript",
+        "nodes": [
+          {
+            "name": "K2Node_FunctionEntry_0",
+            "title": "Construction Script",
+            "class": "K2Node_FunctionEntry",
+            "position": [
+              0,
+              0
+            ],
+            "pins": [
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MCPProbe",
+        "nodes": [
+          {
+            "name": "K2Node_FunctionEntry_0",
+            "title": "MCPProbe",
+            "class": "K2Node_FunctionEntry",
+            "position": [
+              0,
+              0
+            ],
+            "pins": [
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_VariableSet_0",
+                    "pin": "execute"
+                  }
+                ]
+              },
+              {
+                "name": "NewHealth",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_VariableSet_0",
+                    "pin": "ProbeHealth"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "K2Node_FunctionResult_0",
+            "title": "返回节点",
+            "class": "K2Node_FunctionResult",
+            "position": [
+              560,
+              0
+            ],
+            "pins": [
+              {
+                "name": "execute",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_VariableSet_0",
+                    "pin": "then"
+                  }
+                ]
+              },
+              {
+                "name": "ResultHealth",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_VariableGet_0",
+                    "pin": "ProbeHealth"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "K2Node_VariableSet_0",
+            "title": "Set ProbeHealth",
+            "class": "K2Node_VariableSet",
+            "position": [
+              260,
+              0
+            ],
+            "pins": [
+              {
+                "name": "execute",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_FunctionEntry_0",
+                    "pin": "then"
+                  }
+                ]
+              },
+              {
+                "name": "ProbeHealth",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "0",
+                "connections": [
+                  {
+                    "node": "K2Node_FunctionEntry_0",
+                    "pin": "NewHealth"
+                  }
+                ]
+              },
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_FunctionResult_0",
+                    "pin": "execute"
+                  }
+                ]
+              },
+              {
+                "name": "Output_Get",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "0",
+                "connections": []
+              }
+            ]
+          },
+          {
+            "name": "K2Node_VariableGet_0",
+            "title": "Get ProbeHealth",
+            "class": "K2Node_VariableGet",
+            "position": [
+              260,
+              220
+            ],
+            "pins": [
+              {
+                "name": "ProbeHealth",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "0",
+                "connections": [
+                  {
+                    "node": "K2Node_FunctionResult_0",
+                    "pin": "ResultHealth"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EventGraph",
+        "nodes": [
+          {
+            "name": "K2Node_Event_0",
+            "title": "事件BeginPlay",
+            "class": "K2Node_Event",
+            "position": [
+              0,
+              0
+            ],
+            "pins": [
+              {
+                "name": "OutputDelegate",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              },
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_CallFunction_0",
+                    "pin": "execute"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "K2Node_Event_1",
+            "title": "事件ActorBeginOverlap",
+            "class": "K2Node_Event",
+            "position": [
+              0,
+              208
+            ],
+            "pins": [
+              {
+                "name": "OutputDelegate",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              },
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              },
+              {
+                "name": "OtherActor",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              }
+            ]
+          },
+          {
+            "name": "K2Node_Event_2",
+            "title": "事件Tick",
+            "class": "K2Node_Event",
+            "position": [
+              0,
+              416
+            ],
+            "pins": [
+              {
+                "name": "OutputDelegate",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              },
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              },
+              {
+                "name": "DeltaSeconds",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "0.0",
+                "connections": []
+              }
+            ]
+          },
+          {
+            "name": "K2Node_CallFunction_0",
+            "title": "PrintString",
+            "class": "K2Node_CallFunction",
+            "position": [
+              320,
+              0
+            ],
+            "pins": [
+              {
+                "name": "execute",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "",
+                "connections": [
+                  {
+                    "node": "K2Node_Event_0",
+                    "pin": "then"
+                  }
+                ]
+              },
+              {
+                "name": "InString",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "MCP Blueprint connection verified",
+                "connections": []
+              },
+              {
+                "name": "bPrintToScreen",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "true",
+                "connections": []
+              },
+              {
+                "name": "bPrintToLog",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "true",
+                "connections": []
+              },
+              {
+                "name": "TextColor",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "(R=0.000000,G=0.660000,B=1.000000,A=1.000000)",
+                "connections": []
+              },
+              {
+                "name": "Duration",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "2.000000",
+                "connections": []
+              },
+              {
+                "name": "Key",
+                "direction": "<EdGraphPinDirection.EGPD_INPUT: 0>",
+                "value": "None",
+                "connections": []
+              },
+              {
+                "name": "then",
+                "direction": "<EdGraphPinDirection.EGPD_OUTPUT: 1>",
+                "value": "",
+                "connections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "existing_blueprint_read_only": {
+    "asset": "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter",
+    "graphs": [
+      "UserConstructionScript",
+      "Move",
+      "Aim",
+      "EventGraph"
+    ],
+    "variables": []
+  },
+  "state_tree_api_available": {
+    "StateTree": true,
+    "StateTreeFactory": true,
+    "StateTreeEditorData": true,
+    "StateTreeState": true,
+    "StateTreeTaskBlueprintBase": true,
+    "StateTreeConditionBlueprintBase": true
+  }
+}

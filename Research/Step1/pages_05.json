@@ -1,0 +1,9 @@
+[
+ {"id":"atlas_master","url":"https://phantombladeatlas.com/bosses/chief-disciple-seven-stars/"},
+ {"id":"kungfu_red","url":"https://kungfupunk.com/bosses/red-wraith"},
+ {"id":"guide_red","url":"https://phantomblade.guide/bosses/red-wraith/"},
+ {"id":"gameswiki_red","url":"https://thegameswiki.com/phantom-blade-zero/wiki/red"},
+ {"id":"video_short_subtitles","url":"https://api.bilibili.com/x/player/v2?bvid=BV1j7xb6yEee&cid=43241508669"},
+ {"id":"search_duo_cn2","query":"\"影之刃零\" \"双BOSS\""},
+ {"id":"search_suicide_cn2","query":"\"影之刃零\" \"自杀\""}
+]

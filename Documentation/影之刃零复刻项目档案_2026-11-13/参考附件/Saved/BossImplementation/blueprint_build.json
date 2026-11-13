@@ -1,0 +1,10 @@
+{
+  "asset": "/Game/BossLab/Blueprints/BP_BossEncounter_Final.BP_BossEncounter_Final",
+  "compiled": true,
+  "runtime": "native Blueprint bytecode; no Python during Play",
+  "functions": 49,
+  "graph_nodes": 6353,
+  "states": 349,
+  "transitions": 756,
+  "moves": 33
+}

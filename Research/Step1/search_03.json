@@ -1,0 +1,10 @@
+[
+ {"id":"search_duo_death","query":"\"影之刃零\" \"殉情\""},
+ {"id":"search_master_specific","query":"\"影之刃零\" \"大师兄招式\""},
+ {"id":"search_red_specific","query":"\"影之刃零\" \"红衣女剑客\""},
+ {"id":"search_formation_specific","query":"\"影之刃零\" \"七星剑阵\""},
+ {"id":"search_master_en2","query":"\"Phantom Blade Zero\" \"Chief Disciple\""},
+ {"id":"search_red_en2","query":"\"Phantom Blade Zero\" \"Red\""},
+ {"id":"search_video_master","query":"影之刃零 大师兄 招式 拆解 bilibili"},
+ {"id":"search_video_red","query":"影之刃零 红衣女剑客 无伤 招式"}
+]
